@@ -10,4 +10,4 @@ This is the place where I put all my crochet patterns and links to find all my c
 
 ## Patterns
 
-* [Ariane 5 v1](./patterns/Ariane5/Ariane5.md)
+* [Ariane 5](./patterns/Ariane5/Ariane5.md)
