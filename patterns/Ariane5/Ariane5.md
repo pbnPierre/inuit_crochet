@@ -10,7 +10,7 @@ Ariane 5 is the emblmatic rocket of the centre spatial guyanais.
 
 Tentative de patron de fusée Ariane 5 Première version.
 
-Attempt of Ariane 5 Rocket pattern fist version.
+Attempt of Ariane 5 Rocket pattern first version.
 
 * [Français](./v1/fr/Ariane5.md)
 * [English](./v1/en/Ariane5.md)
