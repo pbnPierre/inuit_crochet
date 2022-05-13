@@ -42,7 +42,7 @@ Commencer par faire un cercle magique de 4 mailles
 
 Fermer en laissant un long fil pour attacher au corp principal de la fusée
 
-### Corp de la fusée
+### Corps de la fusée
 
 Commencer par faire un cercle magique de 6 mailles
 
