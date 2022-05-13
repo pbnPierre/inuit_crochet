@@ -16,8 +16,8 @@ J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant
 ## Materiel
 
 * 1 crochet taille 4
-* 3 pelote blanc cassée
-* 1 pelote grise foncée
+* 3 pelotes couleur blanc cassée
+* 1 pelotes couleur grise foncée
 * 1 paire de ciseau
 * 1 aiguille à laine
 
