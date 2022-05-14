@@ -44,8 +44,8 @@ Commencer par faire un cercle magique de 4 mailles
 
 Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 
-* Rg 46: (1 ms 1 dim) x 7 (14) dans que le brin arrière uniquement sur tout le rang
-* Rg 46: 8 dim (6)
+* Rg 46: (1 ms 1 dim) x 7 (14) dans le brin arrière uniquement sur tout le rang
+* Rg 47: 8 dim (6)
 Fermer en laissant un long fil pour attacher au corps principal de la fusée
 
 Faire le moteur en gris
@@ -84,14 +84,14 @@ Commencer par faire un cercle magique de 6 mailles
 * Rg 72 : (9 ms 1 dim) x 3 (30)
 * Rg 73 : (8 ms 1 dim) x 3 (27)
 * Rg 74 : (7 ms 1 dim) x 3 (24)
-* Rg 75: (2 ms 1 dim) x 7 (21) dans que le brin arrière uniquement sur tout le rang
+* Rg 75: (2 ms 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
 * Rg 76: (1 ms 1 dim) x 7 (14)
 * Rg 77: 8 dim (6)
 Fermer et arrétez le travail.
 
 Faire le moteur vulcain en gris
 
-* Rg 1 : (6 ms 1 dim) x 3 (21) Uniquement dans les mailles
+* Rg 1 : (6 ms 1 dim) x 3 (21) Uniquement dans les mailles avant du rang 75
 * Rg 2 : (5 ms 1 dim) x 3 (18) 
 * Rg 3-4 : 18 ms (18)
 * Rg 5 : (4ms 1 dim) x3 (15)
