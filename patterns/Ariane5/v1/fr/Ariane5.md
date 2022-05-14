@@ -60,7 +60,7 @@ Fermer et arrétez le travail.
 
 ### Corps de la fusée
 
-![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg)
+![corps](../../../../media/patterns/ariane5/v1/corps.jpg)
 
 Commencer par faire un cercle magique de 6 mailles
 
