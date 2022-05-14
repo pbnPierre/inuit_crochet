@@ -26,8 +26,8 @@ J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant
 
 ### Booster (x2)
 
-![booster1](../../../../media/patterns/ariane5/v1/booster1.jpg | width=300)
-![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg | width=300)
+![booster1](../../../../media/patterns/ariane5/v1/booster1.jpg)
+![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg)
 
 Commencer par faire un cercle magique de 4 mailles
 
