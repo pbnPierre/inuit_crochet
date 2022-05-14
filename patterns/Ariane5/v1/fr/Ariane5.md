@@ -42,11 +42,11 @@ Commencer par faire un cercle magique de 4 mailles
 * Rg 9: 3 ms (1 aug 7 ms) x 2 (21)
 * Rg 10-45: 21 ms (21)
 
-Rembourrez bien le tube pour qu'il prennenune forme cylindrique.
+Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 
 * Rg 46: (1 ms 1 dim) x 7 (14) dans que le brin arrière uniquement sur tout le rang
 * Rg 46: 8 dim (6)
-Fermer en laissant un long fil pour attacher au corp principal de la fusée
+Fermer en laissant un long fil pour attacher au corps principal de la fusée
 
 Changez de couleur pour faire les moteurs en commençant sur une 
 
