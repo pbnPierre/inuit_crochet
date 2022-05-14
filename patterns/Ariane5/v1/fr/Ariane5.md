@@ -55,7 +55,7 @@ Faire le moteur en gris
 * Rg 3 : 14 ms (14)
 * Rg 4 : (1 ms 1 aug) x 7 (21)
 * Rg 5 : (2 ms 1 aug) x 7 (28)
-Rembourrez le moteur pour une meilleur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
 
 Fermez et arrétez le travail.
 
@@ -102,7 +102,7 @@ Faire le moteur vulcain en gris
 * Rg 10 : (5ms 1 aug) x3 1ms (22)
 Fermer et arrétez le travail.
 
-Rembourrez le moteur juqu'à mi hauteur pour une meileur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
 
 
 ## Customisations possibles
