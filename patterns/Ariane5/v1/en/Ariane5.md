@@ -1,6 +1,6 @@
 # Ariane 5 pattern first draft
 
-This pattern will descrine how to do this Ariane 5 rocket replica that is 38cm high
+This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high
 
 ![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
 

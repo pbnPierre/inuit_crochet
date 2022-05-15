@@ -14,7 +14,7 @@ Fusée Ariane 5 Première version.
 
 # English version
 
-Ariane 5 is the emblmatic rocket of the centre spatial guyanais.
+Ariane 5 is the emblematic rocket of the centre spatial guyanais.
 
 You'll find on this page crochet patterns I made for this
 
