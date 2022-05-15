@@ -32,7 +32,7 @@ For each round you'll find the number of the round, the instructions and the tot
 ![booster1](../../../../media/patterns/ariane5/v1/booster1.jpg)
 ![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg)
 
-Start by a four stich magic ring
+Start by a 4 stich magic ring
 
 * Rnd 1: 3 sc, 1 inc (5)
 * Rnd 2: 3 sc, 2 inc (7)
@@ -45,28 +45,28 @@ Start by a four stich magic ring
 * Rnd 9: 3 sc, (1 inc, 7 sc) x 2 (21)
 * Rnd 10-45: 21 sc (21)
 
-Stuff the tube with the paddind.
+Stuff the tube with the padding.
 
 * Rnd 46: (1 sc, 1 dec) x 7 (14) BLO
 * Rnd 47: 8 dec (6)
 Close leaving long tail to be able to attach it to the rocket body
 
-Faire le moteur en gris
+Do the engine in grey
 
-* Rnd 1 : 21 sc (21) Uniquement dans les mailles avant du Rang 46
+* Rnd 1 : 21 sc (21) In the front loops only of the round 46
 * Rnd 2 : (1 sc, 1 dec) x 7 (14)
 * Rnd 3 : 14 sc (14)
 * Rnd 4 : (1 sc, 1 inc) x 7 (21)
 * Rnd 5 : (2 sc, 1 inc) x 7 (28)
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Stuff the engine up to the middle
 
-Fermez et arrétez le travail.
+Close and stop the work.
 
-### Corps de la fusée
+### Rocket body
 
 ![corps](../../../../media/patterns/ariane5/v1/corps.jpg)
 
-Commencer par faire un cercle magique de 6 mailles
+Start by a 6 stich magic ring
 
 * Rnd 1 : (1 sc, 1 inc) x 3 (9)
 * Rnd 2 : (2 sc, 1 inc) x 3 (12)
@@ -87,14 +87,14 @@ Commencer par faire un cercle magique de 6 mailles
 * Rnd 72 : (9 sc, 1 dec) x 3 (30)
 * Rnd 73 : (8 sc, 1 dec) x 3 (27)
 * Rnd 74 : (7 sc, 1 dec) x 3 (24)
-* Rnd 75: (2 sc, 1 dec) x 7 (21) dans le brin arrière uniquement sur tout le rang
+* Rnd 75: (2 sc, 1 dec) x 7 (21) BLO
 * Rnd 76: (1 sc, 1 dec) x 7 (14)
 * Rnd 77: 8 dec (6)
-Fermer et arrétez le travail.
+Close and stop the work.
 
-Faire le moteur vulcain en gris
+Do the Vulcain engine in grey
 
-* Rnd 1 : (6 sc, 1 dec) x 3 (21) Uniquement dans les mailles avant du rang 75
+* Rnd 1 : (6 sc, 1 dec) x 3 (21) In the front loops only of the round 75
 * Rnd 2 : (5 sc, 1 dec) x 3 (18) 
 * Rnd 3-4 : 18 sc (18)
 * Rnd 5 : (4 sc, 1 dec) x3 (15)
@@ -103,19 +103,13 @@ Faire le moteur vulcain en gris
 * Rnd 8 : (3 sc, 1 inc) x3, 1sc (16)
 * Rnd 9 : (4 sc, 1 inc) x3, 1sc (19)
 * Rnd 10 : (5 sc, 1 inc) x3, 1sc (22)
-Fermer et arrétez le travail.
+Close and stop the work.
 
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Stuff the engine up to the middle
 
 
-## Customisations possibles
+## Possible Customizations
 
-Pour un rendu moins simplistes j'y ai ajoutés des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
+For a more realistic look I added pompoms to do the engine flames (with yellow, orange and red yarn)
 
-J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l'originale
-
-## Points d'améliorations
-
-Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu améliorer et que je modifierai peut être dans une future versions 2 du patron.
-* Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
-* J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
+I also added flags and logos
