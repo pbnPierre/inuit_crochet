@@ -2,7 +2,7 @@
 
 Ce patron permet de faire cette fusée ariame de 38cm
 
-TODO photo fusée finie
+![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
 
 ## Terminologie
 
@@ -12,6 +12,8 @@ J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
+
+Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -31,30 +33,30 @@ J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant
 
 Commencer par faire un cercle magique de 4 mailles
 
-* Rg 1: 3 ms 1 aug (5)
-* Rg 2: 3 ms 2 aug (7)
-* Rg 3: 3 ms (1 aug 1 ms) x 2 (9)
-* Rg 4: 3 ms (1 aug 2 ms) x 2 (11)
-* Rg 5: 3 ms (1 aug 3 ms) x 2 (13)
-* Rg 6: 3 ms (1 aug 4 ms) x 2 (15)
-* Rg 7: 3 ms (1 aug 5 ms) x 2 (17)
-* Rg 8: 3 ms (1 aug 6 ms) x 2 (19)
-* Rg 9: 3 ms (1 aug 7 ms) x 2 (21)
+* Rg 1: 3 ms, 1 aug (5)
+* Rg 2: 3 ms, 2 aug (7)
+* Rg 3: 3 ms, (1 aug, 1 ms) x 2 (9)
+* Rg 4: 3 ms, (1 aug, 2 ms) x 2 (11)
+* Rg 5: 3 ms, (1 aug, 3 ms) x 2 (13)
+* Rg 6: 3 ms, (1 aug, 4 ms) x 2 (15)
+* Rg 7: 3 ms, (1 aug, 5 ms) x 2 (17)
+* Rg 8: 3 ms, (1 aug, 6 ms) x 2 (19)
+* Rg 9: 3 ms, (1 aug, 7 ms) x 2 (21)
 * Rg 10-45: 21 ms (21)
 
 Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 
-* Rg 46: (1 ms 1 dim) x 7 (14) dans le brin arrière uniquement sur tout le rang
+* Rg 46: (1 ms, 1 dim) x 7 (14) dans le brin arrière uniquement sur tout le rang
 * Rg 47: 8 dim (6)
 Fermer en laissant un long fil pour attacher au corps principal de la fusée
 
 Faire le moteur en gris
 
 * Rg 1 : 21 ms (21) Uniquement dans les mailles avant du Rang 46
-* Rg 2 : (1 ms 1 dim) x 7 (14)
+* Rg 2 : (1 ms, 1 dim) x 7 (14)
 * Rg 3 : 14 ms (14)
-* Rg 4 : (1 ms 1 aug) x 7 (21)
-* Rg 5 : (2 ms 1 aug) x 7 (28)
+* Rg 4 : (1 ms, 1 aug) x 7 (21)
+* Rg 5 : (2 ms, 1 aug) x 7 (28)
 Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
 
 Fermez et arrétez le travail.
@@ -65,41 +67,41 @@ Fermez et arrétez le travail.
 
 Commencer par faire un cercle magique de 6 mailles
 
-* Rg 1 : (1 ms 1 aug) x 3 (9)
-* Rg 2 : (2 ms 1 aug) x 3 (12)
-* Rg 3 : (3 ms 1 aug) x 3 (15)
-* Rg 4 : (4 ms 1 aug) x 3 (18)
-* Rg 5 : (5 ms 1 aug) x 3 (21)
-* Rg 6 : (6 ms 1 aug) x 3 (24)
-* Rg 7 : (7 ms 1 aug) x 3 (27)
-* Rg 8 : (8 ms 1 aug) x 3 (30)
-* Rg 9 : (9 ms 1 aug) x 3 (33)
-* Rg 10 : (10 ms 1 aug) x 3 (36)
-* Rg 11 : (11 ms 1 aug) x 3 (39)
-* Rg 12 : (12 ms 1 aug) x 3 (42)
+* Rg 1 : (1 ms, 1 aug) x 3 (9)
+* Rg 2 : (2 ms, 1 aug) x 3 (12)
+* Rg 3 : (3 ms, 1 aug) x 3 (15)
+* Rg 4 : (4 ms, 1 aug) x 3 (18)
+* Rg 5 : (5 ms, 1 aug) x 3 (21)
+* Rg 6 : (6 ms, 1 aug) x 3 (24)
+* Rg 7 : (7 ms, 1 aug) x 3 (27)
+* Rg 8 : (8 ms, 1 aug) x 3 (30)
+* Rg 9 : (9 ms, 1 aug) x 3 (33)
+* Rg 10 : (10 ms, 1 aug) x 3 (36)
+* Rg 11 : (11 ms, 1 aug) x 3 (39)
+* Rg 12 : (12 ms, 1 aug) x 3 (42)
 * Rg 13-68 : 42 ms (42)
-* Rg 69 : (12 ms 1 dim) x 3 (39) 
-* Rg 70 : (11 ms 1 dim) x 3 (36)
-* Rg 71 : (10 ms 1 dim) x 3 (33)
-* Rg 72 : (9 ms 1 dim) x 3 (30)
-* Rg 73 : (8 ms 1 dim) x 3 (27)
-* Rg 74 : (7 ms 1 dim) x 3 (24)
-* Rg 75: (2 ms 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
-* Rg 76: (1 ms 1 dim) x 7 (14)
+* Rg 69 : (12 ms, 1 dim) x 3 (39) 
+* Rg 70 : (11 ms, 1 dim) x 3 (36)
+* Rg 71 : (10 ms, 1 dim) x 3 (33)
+* Rg 72 : (9 ms, 1 dim) x 3 (30)
+* Rg 73 : (8 ms, 1 dim) x 3 (27)
+* Rg 74 : (7 ms, 1 dim) x 3 (24)
+* Rg 75: (2 ms, 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
+* Rg 76: (1 ms, 1 dim) x 7 (14)
 * Rg 77: 8 dim (6)
 Fermer et arrétez le travail.
 
 Faire le moteur vulcain en gris
 
-* Rg 1 : (6 ms 1 dim) x 3 (21) Uniquement dans les mailles avant du rang 75
-* Rg 2 : (5 ms 1 dim) x 3 (18) 
+* Rg 1 : (6 ms, 1 dim) x 3 (21) Uniquement dans les mailles avant du rang 75
+* Rg 2 : (5 ms, 1 dim) x 3 (18) 
 * Rg 3-4 : 18 ms (18)
-* Rg 5 : (4ms 1 dim) x3 (15)
-* Rg 6 : (1ms 1 dim) x5 (10)
-* Rg 7 : (2ms 1 aug) x3 1ms (13)
-* Rg 8 : (3ms 1 aug) x3 1ms (16)
-* Rg 9 : (4ms 1 aug) x3 1ms (19)
-* Rg 10 : (5ms 1 aug) x3 1ms (22)
+* Rg 5 : (4 ms, 1 dim) x3 (15)
+* Rg 6 : (1 ms, 1 dim) x5 (10)
+* Rg 7 : (2 ms, 1 aug) x3, 1ms (13)
+* Rg 8 : (3 ms, 1 aug) x3, 1ms (16)
+* Rg 9 : (4 ms, 1 aug) x3, 1ms (19)
+* Rg 10 : (5 ms, 1 aug) x3, 1ms (22)
 Fermer et arrétez le travail.
 
 Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
@@ -113,6 +115,6 @@ J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l
 
 ## Points d'améliorations
 
-Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu amélioré et que je modifierai peut être dans une future versions 2 du patron.
-* Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finala d'environ 25cm
+Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu améliorer et que je modifierai peut être dans une future versions 2 du patron.
+* Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
