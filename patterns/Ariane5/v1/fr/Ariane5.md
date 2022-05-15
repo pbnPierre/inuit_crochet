@@ -1,6 +1,6 @@
 # Patron Ariane 5 première version
 
-Ce patron permet de faire cette fusée ariame de 38cm
+Ce patron permet de faire cette fusée Ariane de 38cm
 
 ![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
 
