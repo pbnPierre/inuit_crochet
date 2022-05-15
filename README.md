@@ -6,7 +6,7 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 
 ## Liens
 
-* [Instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
+* [Inuit Crochet sur instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
 
 ## Patrons
 
@@ -45,7 +45,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 ## Links
 
-* [Instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
+* [Inuit Crochet on instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
 
 ## Patterns
 
