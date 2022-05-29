@@ -11,6 +11,7 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 ## Patrons
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
+* [VegaC](./patterns/VegaC/VegaC.md)
 
 ## Conseils et fournitures
 

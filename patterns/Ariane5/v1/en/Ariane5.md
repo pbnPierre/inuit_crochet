@@ -107,6 +107,11 @@ Close and stop the work.
 
 Stuff the engine up to the middle
 
+## Assembly
+
+Attach the boosters to the side sur of the rocket. The booster motors must be just under the Vulcan motor of the main rocket body.
+
+Reffer to the full rocket picture for more details.
 
 ## Possible Customizations
 

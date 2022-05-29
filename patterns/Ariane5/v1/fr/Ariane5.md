@@ -106,6 +106,11 @@ Fermer et arrétez le travail.
 
 Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
 
+## Assemblage
+
+Attachez les boosters sur les côtés de la fusées pour que les moteur des boosters soient légèrement en dessous du moteur Vulcain du corps de la fusée.
+
+Réfférez vous à la photos pour de la fusée assemblée pour plus de détails.
 
 ## Customisations possibles
 
