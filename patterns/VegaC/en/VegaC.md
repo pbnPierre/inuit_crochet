@@ -117,7 +117,7 @@ Start by 6 stich a magic ring.
 * Rnd 5: (5 sc, 1 inc) x 3 (21)
 Close leaving long tail to be able to attach it to the rocket body
 
-## Assembly
+### Assembly
 
 ![assembly](../../../media/patterns/vegac/assemblage.jpg)
 

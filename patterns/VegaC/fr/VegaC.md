@@ -1,4 +1,4 @@
-# Patron Ariane 5 première version
+# Patron VegaC
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
@@ -114,7 +114,7 @@ Commencer en blanc cassé par faire un cercle magique de 6 mailles
 * Rg 5: (5 ms, 1 aug) x 3 (21)
 Fermez et arrétez le travail laissez un long fil pour attacher à la fusée.
 
-## Assemblage
+### Assemblage
 
 ![fusée](../../../media/patterns/vegac/assemblage.jpg)
 
