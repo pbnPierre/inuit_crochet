@@ -90,7 +90,7 @@ Passez en gris foncé
 * Rg 80: 30 ms (30)
 Repassez en blanc cassé
 * Rg 81-82: 30 ms (30)
-Passez en gris foncé et coupez le fil blanc
+Passez en gris foncé
 * Rg 83: 30 ms (30)
 Rembourrez bien la fin du tube pour qu'il prenne une belle forme cylindrique.
 * Rg 84: 30 ms (30)
