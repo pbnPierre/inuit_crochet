@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this VegaC rocket replica that 40cm high
 
-![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](../../../media/patterns/ariane5/v1/fusee.jpg)
 
 ## Terminology
 
@@ -31,7 +31,7 @@ For the wool i use the Salsa of the Cheval blanc brand and Prym crochets
 
 ### Rocket Body 
 
-![corps](../../../../media/patterns/vegac/corps.jpg)
+![corps](../../../media/patterns/vegac/corps.jpg)
 
 Use white yarn
 Start by 6 stich a magic ring.
@@ -104,7 +104,7 @@ Close and stop the work.
 
 ### Engine
 
-![moteur](../../../../media/patterns/vegac/moteur.jpg)
+![moteur](../../../media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 

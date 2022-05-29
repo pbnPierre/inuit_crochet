@@ -2,7 +2,7 @@
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
-![fusée](../../../../media/patterns/vegac/assemblage.jpg)
+![fusée](../../../media/patterns/vegac/assemblage.jpg)
 
 ## Terminologie
 
@@ -30,7 +30,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de ches Prym
 
 ### Corps de la fusée
 
-![corps](../../../../media/patterns/vegac/corps.jpg)
+![corps](../../../media/patterns/vegac/corps.jpg)
 
 Commencer en blanc cassé par faire un cercle magique de 6 mailles
 
@@ -102,7 +102,7 @@ Fermez et arrétez le travail.
 
 ### Moteur
 
-![moteur](../../../../media/patterns/vegac/moteur.jpg)
+![moteur](../../../media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 
