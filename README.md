@@ -51,6 +51,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 ## Patterns
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
+* [VegaC](./patterns/VegaC/VegaC.md)
 
 ## Advices and supplies
 
