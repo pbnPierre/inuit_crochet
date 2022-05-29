@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this VegaC rocket replica that 40cm high
 
-![fusée](../../../media/patterns/ariane5/v1/fusee.jpg)
+![corps](../../../media/patterns/vegac/custos.jpg)
 
 ## Terminology
 
@@ -118,6 +118,8 @@ Start by 6 stich a magic ring.
 Close leaving long tail to be able to attach it to the rocket body
 
 ## Assembly
+
+![assembly](../../../media/patterns/vegac/assemblage.jpg)
 
 Attach the engine to the bottom of the rocket body.
 

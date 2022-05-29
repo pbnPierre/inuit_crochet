@@ -2,7 +2,7 @@
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
-![fusée](../../../media/patterns/vegac/assemblage.jpg)
+![fusée](../../../media/patterns/vegac/custos.jpg)
 
 ## Terminologie
 
@@ -102,7 +102,7 @@ Fermez et arrétez le travail.
 
 ### Moteur
 
-![moteur](../../../media/patterns/vegac/moteur.jpg)
+![assemblage](../../../media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 
@@ -115,6 +115,8 @@ Commencer en blanc cassé par faire un cercle magique de 6 mailles
 Fermez et arrétez le travail laissez un long fil pour attacher à la fusée.
 
 ## Assemblage
+
+![fusée](../../../media/patterns/vegac/assemblage.jpg)
 
 Attachez le moteur sous la fusée en plein centre.
 
