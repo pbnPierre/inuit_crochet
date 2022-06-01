@@ -1,4 +1,4 @@
-# VegaC 5 pattern
+# VegaC pattern
 
 This pattern will describe how to do this VegaC rocket replica that 40cm high
 
