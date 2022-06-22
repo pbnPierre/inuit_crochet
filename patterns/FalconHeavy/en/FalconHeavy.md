@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this FlaconHEavy rocket replica that 40cm high
 
-![corps](../../../media/patterns/vegac/custos.jpg)
+![corps](../../../media/patterns/falconheavy/fusee.jpg)
 
 Time needed: 9 hours
 
@@ -76,7 +76,7 @@ Close and stop the work.
 
 ### Booster (x2)
 
-![booster1](../../../../media/patterns/falconheavy/booster.jpg)
+![booster](../../../../media/patterns/falconheavy/booster.jpg)
 
 Start in white by a 6 stich magic ring
 
@@ -103,5 +103,7 @@ Close and stop the work.
 Attach the boosters to the side of the rocket body.
 
 ## Possible Customizations
+
+![custos](../../../media/patterns/falconheavy/custos.jpg)
 
 For a more realistic look I added Logos and an american flag.
