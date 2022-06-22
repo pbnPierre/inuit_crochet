@@ -12,6 +12,7 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
 * [VegaC](./patterns/VegaC/VegaC.md)
+* [FalconHeavy](./patterns/FalconHeavy/FalconHeavy.md)
 
 ## Conseils et fournitures
 
@@ -52,6 +53,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
 * [VegaC](./patterns/VegaC/VegaC.md)
+* [FalconHeavy](./patterns/FalconHeavy/FalconHeavy.md)
 
 ## Advices and supplies
 
