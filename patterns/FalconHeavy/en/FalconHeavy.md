@@ -1,6 +1,6 @@
 # FalconHeavy pattern
 
-This pattern will describe how to do this FlaconHEavy rocket replica that 40cm high
+This pattern will describe how to do this Flacon Heavy rocket replica that 40cm high
 
 ![corps](../../../media/patterns/falconheavy/fusee.jpg)
 
