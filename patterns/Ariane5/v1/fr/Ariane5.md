@@ -4,6 +4,10 @@ Ce patron permet de faire cette fusée Ariane de 38cm
 
 ![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
 
+Temps nécécessaire: 8 heures
+
+Difficulté: 2/5
+
 ## Terminologie
 
 J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
@@ -48,6 +52,7 @@ Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 
 * Rg 46: (1 ms, 1 dim) x 7 (14) dans le brin arrière uniquement sur tout le rang
 * Rg 47: 8 dim (6)
+
 Fermer en laissant un long fil pour attacher au corps principal de la fusée
 
 Faire le moteur en gris
@@ -57,6 +62,7 @@ Faire le moteur en gris
 * Rg 3 : 14 ms (14)
 * Rg 4 : (1 ms, 1 aug) x 7 (21)
 * Rg 5 : (2 ms, 1 aug) x 7 (28)
+
 Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
 
 Fermez et arrétez le travail.
@@ -89,6 +95,7 @@ Commencer par faire un cercle magique de 6 mailles
 * Rg 75: (2 ms, 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
 * Rg 76: (1 ms, 1 dim) x 7 (14)
 * Rg 77: 8 dim (6)
+
 Fermer et arrétez le travail.
 
 Faire le moteur vulcain en gris
@@ -102,6 +109,7 @@ Faire le moteur vulcain en gris
 * Rg 8 : (3 ms, 1 aug) x3, 1ms (16)
 * Rg 9 : (4 ms, 1 aug) x3, 1ms (19)
 * Rg 10 : (5 ms, 1 aug) x3, 1ms (22)
+
 Fermer et arrétez le travail.
 
 Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue

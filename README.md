@@ -57,7 +57,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 ### Crochets
 
-For most of my creation i use prym crochets of size 4. They are available on a lot of shops and easilly found on the Internet.
+For most of my creation I use prym crochets of size 4. They are available on a lot of shops and easilly found on the Internet.
 
 ![Crochet prym](./media/prym.jpg)
 

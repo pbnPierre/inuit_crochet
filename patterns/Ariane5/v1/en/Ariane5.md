@@ -4,6 +4,10 @@ This pattern will describe how to do this Ariane 5 rocket replica that is 38cm h
 
 ![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
 
+Time needed: 8 hours
+
+Difficulty: 2/5
+
 ## Terminology
 
 I use abreviates in the pattern here are them to help you read the pattern
@@ -49,6 +53,7 @@ Stuff the tube with the padding.
 
 * Rnd 46: (1 sc, 1 dec) x 7 (14) BLO
 * Rnd 47: 8 dec (6)
+
 Close leaving long tail to be able to attach it to the rocket body
 
 Do the engine in grey
@@ -58,6 +63,7 @@ Do the engine in grey
 * Rnd 3 : 14 sc (14)
 * Rnd 4 : (1 sc, 1 inc) x 7 (21)
 * Rnd 5 : (2 sc, 1 inc) x 7 (28)
+
 Stuff the engine up to the middle
 
 Close and stop the work.
@@ -90,6 +96,7 @@ Start by a 6 stich magic ring
 * Rnd 75: (2 sc, 1 dec) x 7 (21) BLO
 * Rnd 76: (1 sc, 1 dec) x 7 (14)
 * Rnd 77: 8 dec (6)
+
 Close and stop the work.
 
 Do the Vulcain engine in grey
@@ -103,6 +110,7 @@ Do the Vulcain engine in grey
 * Rnd 8 : (3 sc, 1 inc) x3, 1sc (16)
 * Rnd 9 : (4 sc, 1 inc) x3, 1sc (19)
 * Rnd 10 : (5 sc, 1 inc) x3, 1sc (22)
+
 Close and stop the work.
 
 Stuff the engine up to the middle
