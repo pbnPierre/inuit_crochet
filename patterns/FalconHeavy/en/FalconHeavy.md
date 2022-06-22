@@ -1,4 +1,4 @@
-# FalconHeavy pattern
+# Falcon Heavy pattern
 
 This pattern will describe how to do this Flacon Heavy rocket replica that 40cm high
 
