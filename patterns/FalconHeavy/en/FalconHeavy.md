@@ -76,7 +76,7 @@ Close and stop the work.
 
 ### Booster (x2)
 
-![booster](../../../../media/patterns/falconheavy/booster.jpg)
+![booster](../../../media/patterns/falconheavy/booster.jpg)
 
 Start in white by a 6 stich magic ring
 
