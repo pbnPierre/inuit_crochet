@@ -23,7 +23,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre 
 
 * 1 crochet taille 4
 * 2 pelotes blanches
-* 1 pelote noites
+* 1 pelote noires
 * 1 paire de ciseau
 * 1 aiguille à laine
 * Rembourrage
