@@ -23,8 +23,8 @@ For each round you'll find the number of the round, the instructions and the tot
 ## Supplies
 
 * 1 crochet size 4
-* 1 white ball of yarn
-* 1 black gray ball of yarn
+* 2 white ball of yarn
+* 1 black ball of yarn
 * 1 pair of cissors
 * 1 yarn needle
 * Padding
@@ -100,7 +100,7 @@ Close and stop the work.
 
 ![assembly](../../../media/patterns/falconheavy/assemblage.jpg)
 
-Attach the boosters to the side of the rocket body.
+Attach the boosters on each side of the rocket body managing the bottom of each part to be at the same level.
 
 ## Possible Customizations
 

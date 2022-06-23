@@ -28,6 +28,8 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre 
 * 1 aiguille à laine
 * Rembourrage
 
+Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
+
 ## Patron
 
 ### Booster (x2)
