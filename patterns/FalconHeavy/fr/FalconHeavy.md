@@ -91,7 +91,7 @@ Commencez par un cercle magique de 6 mailles.
 Rembourrez le tube
 
 Continuez en noir
-* Rg 85: (3 ms, 1 dim) x 6 (24)) dans le brin arrière uniquement sur tout le rang
+* Rg 85: (3 ms, 1 dim) x 6 (24) dans le brin arrière uniquement sur tout le rang
 * Rg 86: (2 ms, 1 dim) x 6 (18)
 * Rg 87: (1 ms, 1 dim) x 6 (12)
 * Rg 88: 6 dim (6)
