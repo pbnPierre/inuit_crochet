@@ -1,4 +1,4 @@
-# Ariane 5
+# Ariane 6
 
 ![Ariane](../../media/Ariane6.jpg)
 

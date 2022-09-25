@@ -88,6 +88,7 @@ Commencer par faire un cercle magique de 6 mailles
 * Rg 11 : (11 ms, 1 aug) x 3 (39)
 * Rg 12 : (12 ms, 1 aug) x 3 (42)
 * Rg 13-68 : 42 ms (42)
+Rembourrez bien le tube
 * Rg 69 : (12 ms, 1 dim) x 3 (39) 
 * Rg 70 : (11 ms, 1 dim) x 3 (36)
 * Rg 71 : (10 ms, 1 dim) x 3 (33)
@@ -97,7 +98,6 @@ Commencer par faire un cercle magique de 6 mailles
 * Rg 75: (2 ms, 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
 * Rg 76: (1 ms, 1 dim) x 7 (14)
 * Rg 77: 8 dim (6)
-
 Fermer et arrétez le travail.
 
 Faire le moteur vulcain en gris
