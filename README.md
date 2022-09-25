@@ -11,7 +11,7 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 ## Patrons
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
-* [Ariane 6](./patterns/Ariane5/Ariane6.md)
+* [Ariane 6](./patterns/Ariane6/Ariane6.md)
 * [Vega C](./patterns/VegaC/VegaC.md)
 * [Falcon Heavy](./patterns/FalconHeavy/FalconHeavy.md)
 
@@ -53,7 +53,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 ## Patterns
 
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
-* [Ariane 6](./patterns/Ariane5/Ariane6.md)
+* [Ariane 6](./patterns/Ariane6/Ariane6.md)
 * [Vega C](./patterns/VegaC/VegaC.md)
 * [Falcon Heavy](./patterns/FalconHeavy/FalconHeavy.md)
 
