@@ -60,7 +60,7 @@ Close leaving long tail to be able to attach it to the rocket body
 
 Do the engine in grey
 
-* Rnd 1 : 21  sc (21) FLO of rnd 46
+* Rnd 1 : 21  sc (21) FLO of round 46
 * Rnd 2 : (1  sc, 1 dec) x 7 (14)
 * Rnd 3 : 14  sc (14)
 * Rnd 4 : (1  sc, 1 inc) x 7 (21)
@@ -95,17 +95,17 @@ Change color for beige
 * Rnd 45-84 : 42  sc (42)
 
 Stuff the tube with the padding.
-* Rnd 85: (5  sc, 1 dec) x 6 (36) dans le brin arrière uniquement sur tout le rang
+* Rnd 85: (5  sc, 1 dec) x 6 (36) BLO
 * Rnd 86: (4  sc, 1 dec) x 6 (30)
 * Rnd 87: (3  sc, 1 dec) x 6 (24)
 * Rnd 88: (2  sc, 1 dec) x 6 (18)
 * Rnd 89: (1  sc, 1 dec) x 6 (12)
 * Rnd 90: 6 dec (6)
-Fermer et arrétez le travail.
+Close and stop the work.
 
-Faire le moteur vulcain en gris
+Do the engine in grey
 
-* Rnd 1 : 24  sc (24) Uniquement dans les mailles avant du rang 87
+* Rnd 1 : 24  sc (24) FLO of round 87
 * Rnd 2 : (6  sc, 1 dec) x 3 (21) 
 * Rnd 3-4 : 21  sc (21)
 * Rnd 5 : (5  sc, 1 dec) x3 (18)
@@ -129,7 +129,6 @@ Reffer to the full rocket picture for more details.
 For a more realistic look I added flames with scuplted pompoms (Using mixed red orange and yellow yarn)
 
 I also added ESA and CNES in letters on the boosters.
-
 
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
