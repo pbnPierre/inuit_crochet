@@ -12,7 +12,7 @@ Fusée Ariane 5 première version.
 * [Français](./v1/fr/Ariane5.md)
 * [Anglais](./v1/en/Ariane5.md)
 
-## deuxieme version
+## Deuxieme version
 Fusée Ariane 5 deuxième version.
 
 * [Français](./v2/fr/Ariane5.md)
