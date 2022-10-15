@@ -35,9 +35,6 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Booster (x2)
 
-![booster1](../../../../media/patterns/ariane5/v2/booster1.jpg)
-![booster2](../../../../media/patterns/ariane5/v2/booster2.jpg)
-
 Commencer par faire un cercle magique de 4 mailles en blanc
 
 * Rg 1: 3 ms, 1 aug (5)
@@ -72,8 +69,6 @@ Fermez et arrétez le travail.
 
 ### Corps de la fusée
 
-![corps](../../../../media/patterns/ariane5/v2/corps.jpg)
-
 Commencer par faire un cercle magique de 6 mailles en blanc
 
 * Rg 1 : (1 ms, 1 aug) x 3 (9)
@@ -96,6 +91,7 @@ Changez de couleur pour le blanc
 Changez de couleur pour le beige
 * Rg 45-84 : 42 ms (42)
 * Rg 85: (5 ms, 1 dim) x 6 (36) dans le brin arrière uniquement sur tout le rang
+Rembourrez bien le tube
 * Rg 86: (4 ms, 1 dim) x 6 (30)
 * Rg 87: (3 ms, 1 dim) x 6 (24)
 * Rg 88: (2 ms, 1 dim) x 6 (18)
@@ -128,10 +124,8 @@ Réfférez vous à la photos pour de la fusée assemblée pour plus de détails.
 
 Pour un rendu moins simplistes j'y ai ajoutés des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
 
-J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l'originale
+J'ai aussi brodé des motifs ESA et CNES sur les boosters
 
-## Points d'améliorations
 
-Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu améliorer et que je modifierai peut être dans une future versions 2 du patron.
-* Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
-* J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
+![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
+![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)

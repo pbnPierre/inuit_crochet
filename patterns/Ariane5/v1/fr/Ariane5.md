@@ -8,6 +8,10 @@ Temps nécécessaire: 8 heures
 
 Difficulté: 2/5
 
+## Attention
+
+Ceci est la première version du patron que j'ai fait pour Ariane 5, une version améliorée est disponible [ici](../../v2/en/Ariane5.md)
+
 ## Terminologie
 
 J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
@@ -52,7 +56,7 @@ Commencer par faire un cercle magique de 4 mailles
 
 Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 
-* Rg 46: (1 ms, 1 dim) x 7 (14) dans le brin arrière uniquement sur tout le rang
+* Rg 46: (1 ms, 1 dim) x 7 (14) BLO
 * Rg 47: 8 dim (6)
 
 Fermer en laissant un long fil pour attacher au corps principal de la fusée

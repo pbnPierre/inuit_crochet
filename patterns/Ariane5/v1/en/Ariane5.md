@@ -8,6 +8,10 @@ Time needed: 8 hours
 
 Difficulty: 2/5
 
+## Warning
+
+This is the first version I made of the Ariane 5 crochet pattern, an imporved one can be found [here](../../v2/en/Ariane5.md)
+
 ## Terminology
 
 I use abreviates in the pattern here are them to help you read the pattern
