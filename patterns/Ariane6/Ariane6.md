@@ -9,6 +9,8 @@ Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 ## Patron
 Fusée Ariane 6
 
+![fusée](../../media/patterns/ariane6/fusee4.jpg)
+
 * [Français](./fr/Ariane6.md)
 * [Anglais](./en/Ariane6.md)
 
@@ -19,10 +21,9 @@ Ariane 6 is the new version of its little sister Ariane 5 and the futur of rocke
 Here is the pattern ispired by it.
 
 ## Pattern
+Ariane 6 rocket
 
-Ariane 5 Rocket pattern first version.
-
-![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](../../media/patterns/ariane6/fusee4.jpg)
 
 * [French](./fr/Ariane6.md)
 * [English](./en/Ariane6.md)
