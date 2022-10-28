@@ -37,7 +37,7 @@ For the wool I use the salsa onefrom cheval blanc brand and a crochet from Prym
 
 ### Booster (x4 ou x2)
 
-![booster1](../../../media/patterns/ariane6/booster.jpg)
+![booster](../../../media/patterns/ariane6/boosters.jpg)
 
 Start by a 4 stich magic ring in white
 

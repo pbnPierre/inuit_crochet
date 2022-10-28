@@ -36,7 +36,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Booster (x4 ou x2)
 
-![booster1](../../../media/patterns/ariane6/booster.jpg)
+![booster](../../../media/patterns/ariane6/boosters.jpg)
 
 Commencer par faire un cercle magique de 4 mailles en blanc
 
