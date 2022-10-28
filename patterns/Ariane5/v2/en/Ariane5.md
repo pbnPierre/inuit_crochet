@@ -1,6 +1,5 @@
 # Ariane 5
 
-
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high
 
 ![fusée](../../../../media/patterns/ariane5/v2/fusee.jpg)
@@ -34,7 +33,7 @@ For each round you'll find the number of the round, the instructions and the tot
 
 For the wool I use the salsa onefrom cheval blanc brand and a crochet from Prym
 
-## Patron
+## Pattern
 
 ### Booster (x2)
 
@@ -118,13 +117,13 @@ Close and stop the work.
 
 Stuff the engine up to the middle
 
-## Assemblage
+## Assembly
 
-Attach the boosters to the side sur of the rocket. The booster motors must be just under the Vulcan motor of the main rocket body.
+Attach the boosters to the side of the rocket. The booster motors must be just under the Vulcan motor of the main rocket body.
 
 Reffer to the full rocket picture for more details.
 
-## Customisations possibles
+## Possible Customisations
 
 For a more realistic look I added flames with scuplted pompoms (Using mixed red orange and yellow yarn)
 

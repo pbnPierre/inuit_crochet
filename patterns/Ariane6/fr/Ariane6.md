@@ -1,8 +1,9 @@
 # Patron Ariane 6
 
-Ce patron permet de faire cette fusée Ariane de 44cm
+Ce patron permet de faire cette fusée Ariane de 44cm en version 2 ou 4 boosters
 
-![fusée](../../../../media/patterns/ariane6/fusee.jpg)
+![fusée2](../../../media/patterns/ariane6/fusee2.jpg)
+![fusée4](../../../media/patterns/ariane6/fusee4.jpg)
 
 Temps nécécessaire: 8 heures
 
@@ -33,10 +34,9 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ## Patron
 
-### Booster (x4)
+### Booster (x4 ou x2)
 
-![booster1](../../../../media/patterns/ariane6/booster1.jpg)
-![booster2](../../../../media/patterns/ariane6/booster2.jpg)
+![booster1](../../../media/patterns/ariane6/booster.jpg)
 
 Commencer par faire un cercle magique de 4 mailles en blanc
 
@@ -63,7 +63,7 @@ Fermez et arrétez le travail.
 
 ### Corps de la fusée
 
-![corps](../../../../media/patterns/ariane6/corps.jpg)
+![corps](../../../media/patterns/ariane6/corps.jpg)
 
 Commencer par faire un cercle magique de 6 mailles en blanc
 
@@ -118,8 +118,7 @@ Fermer et arrétez le travail.
 
 ## Assemblage
 
+Assemblez les boosters (2 ou 4) face à face l'un à l'autre au niveau de la base du corps de la fusée
+
 Réfférez vous à la photos pour de la fusée assemblée pour plus de détails.
 
-## Customisations possibles
-
-## Points d'améliorations
