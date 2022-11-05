@@ -7,6 +7,7 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 ## Liens
 
 * [Inuit Crochet sur instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
+* ([mastodon](https://pouet.chapril.org/@pierrobn "{rel='me'}"))
 
 ## Patrons
 
