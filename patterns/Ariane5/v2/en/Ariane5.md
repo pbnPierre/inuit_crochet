@@ -104,7 +104,7 @@ Close and stop the work.
 
 Do the engine in grey
 
-* Rnd 1 : 24  sc (24) FLO of round 87
+* Rnd 1 : 24  sc (24) FLO of round 85
 * Rnd 2 : (6  sc, 1 dec) x 3 (21) 
 * Rnd 3-4 : 21  sc (21)
 * Rnd 5 : (5  sc, 1 dec) x3 (18)

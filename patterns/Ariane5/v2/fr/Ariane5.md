@@ -101,7 +101,7 @@ Fermer et arrétez le travail.
 
 Faire le moteur vulcain en gris
 
-* Rg 1 : 24 ms (24) Uniquement dans les mailles avant du rang 87
+* Rg 1 : 24 ms (24) Uniquement dans les mailles avant du rang 85
 * Rg 2 : (6 ms, 1 dim) x 3 (21) 
 * Rg 3-4 : 21 ms (21)
 * Rg 5 : (5 ms, 1 dim) x3 (18)
