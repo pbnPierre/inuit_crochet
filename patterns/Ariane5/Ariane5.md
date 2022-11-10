@@ -28,7 +28,7 @@ You'll find on this page crochet patterns I made for this
 
 Ariane 5 Rocket pattern first version.
 
-![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](../../media/patterns/ariane5/v1/fusee.jpg)
 
 * [French](./v1/fr/Ariane5.md)
 * [English](./v1/en/Ariane5.md)
@@ -37,7 +37,7 @@ Ariane 5 Rocket pattern first version.
 
 Ariane 5 Rocket pattern second version.
 
-![fusée](../../../../media/patterns/ariane5/v2/fusee.jpg)
+![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
 
 * [French](./v2/fr/Ariane5.md)
 * [English](./v2/en/Ariane5.md)

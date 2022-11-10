@@ -78,43 +78,78 @@ Start by a 6 stich magic ring in white
 * Rnd 8 : (8 sc, 1 inc) x 3 (30)
 * Rnd 9 : (9 sc, 1 inc) x 3 (33)
 * Rnd 10-28 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 29 : 33 sc (33)
+
 Change color to knit in white
+
 * Rnd 30 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 31-32 : 33 sc (33)
+
 Change color to knit in dark grey
+
 * Rnd 33-36 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 37 : 33 sc (33)
+
 Change color to knit in white
+
 * Rnd 38-42 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 43 : 33 sc (33)
+
 Change color to knit in white
+
 * Rnd 44-56 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 57 : 33 sc (33)
+
 Change color to knit in dark grey
+
 * Rnd 58-62 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 63 : 33 sc (33)
+
 Change color to knit in white
+
 * Rnd 64-68 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 69 : 33 sc (33)
+
 Change color to knit in dark grey
+
 * Rnd 70-88 : 33 sc (33)
+
 Change color to knit in yellow
+
 * Rnd 89 : 33 sc (33)
+
 Change color to knit in white
+
 * Rnd 90-96 : 33 sc (33)
+
 Stuff the tube with the padding.
+
 * Rnd 97: (3 sc, 1 dec) x 6, 2ms 1 dec (26) BLO
 * Rnd 98: (2 sc, 1 dec) x 6, 1ms 1 dec (19)
 * Rnd 99: (1 sc, 1 dec) x 6, 1 dec (12)
 * Rnd 100: 6 dec (6)
+
 Close and stop the work.
 
 ## Assembly

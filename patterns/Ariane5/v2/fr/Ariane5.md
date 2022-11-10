@@ -84,14 +84,22 @@ Commencer par faire un cercle magique de 6 mailles en blanc
 * Rg 11 : (11 ms, 1 aug) x 3 (39)
 * Rg 12 : (12 ms, 1 aug) x 3 (42)
 * Rg 13-28 : 42 ms (42)
+
 Changez de couleur pour le gris clair
+
 * Rg 29-33 : 42 ms (42)
+
 Changez de couleur pour le blanc
+
 * Rg 34-44 : 42 ms (42)
+
 Changez de couleur pour le beige
+
 * Rg 45-84 : 42 ms (42)
 * Rg 85: (5 ms, 1 dim) x 6 (36) dans le brin arrière uniquement sur tout le rang
+
 Rembourrez bien le tube
+
 * Rg 86: (4 ms, 1 dim) x 6 (30)
 * Rg 87: (3 ms, 1 dim) x 6 (24)
 * Rg 88: (2 ms, 1 dim) x 6 (18)

@@ -77,43 +77,78 @@ Commencer par faire un cercle magique de 6 mailles en blanc
 * Rg 8 : (8 ms, 1 aug) x 3 (30)
 * Rg 9 : (9 ms, 1 aug) x 3 (33)
 * Rg 10-28 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 29 : 33 ms (33)
+
 Changez de couleur pour le blanc
+
 * Rg 30 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 31-32 : 33 ms (33)
+
 Changez de couleur pour le gris foncé
+
 * Rg 33-36 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 37 : 33 ms (33)
+
 Changez de couleur pour le blanc
+
 * Rg 38-42 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 43 : 33 ms (33)
+
 Changez de couleur pour le blanc
+
 * Rg 44-56 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 57 : 33 ms (33)
+
 Changez de couleur pour le gris foncé
+
 * Rg 58-62 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 63 : 33 ms (33)
+
 Changez de couleur pour le blanc
+
 * Rg 64-68 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 69 : 33 ms (33)
+
 Changez de couleur pour le gris foncé
+
 * Rg 70-88 : 33 ms (33)
+
 Changez de couleur pour le jaune
+
 * Rg 89 : 33 ms (33)
+
 Changez de couleur pour le blanc
+
 * Rg 90-96 : 33 ms (33)
+
 Rembourrez bien le tube
+
 * Rg 97: (3 ms, 1 dim) x 6, 2ms 1 dim (26) dans le brin arrière uniquement sur tout le rang
 * Rg 98: (2 ms, 1 dim) x 6, 1ms 1 dim (19)
 * Rg 99: (1 ms, 1 dim) x 6, 1 dim (12)
 * Rg 100: 6 dim (6)
+
 Fermer et arrétez le travail.
 
 ## Assemblage

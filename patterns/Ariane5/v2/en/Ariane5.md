@@ -86,11 +86,17 @@ Start by a 6 stich magic ring in white
 * Rnd 11 : (11  sc, 1 inc) x 3 (39)
 * Rnd 12 : (12  sc, 1 inc) x 3 (42)
 * Rnd 13-28 : 42  sc (42)
+
 Change color for light gray
+
 * Rnd 29-33 : 42  sc (42)
+
 Change color for white
+
 * Rnd 34-44 : 42  sc (42)
+
 Change color for beige
+
 * Rnd 45-84 : 42  sc (42)
 
 Stuff the tube with the padding.
@@ -100,6 +106,7 @@ Stuff the tube with the padding.
 * Rnd 88: (2  sc, 1 dec) x 6 (18)
 * Rnd 89: (1  sc, 1 dec) x 6 (12)
 * Rnd 90: 6 dec (6)
+
 Close and stop the work.
 
 Do the engine in grey
