@@ -76,11 +76,11 @@ Référez vous à la photo pour pour plus de détails.
 
 # English version
 
-## Movember Moustache
+## Movember Mustache
 
 This pattern will describe how to do this nice moustache
 
-![moustache](../../media/patterns/moustache/moustache.jpg)
+![mustache](../../media/patterns/moustache/moustache.jpg)
 
 Time needed: 4 hours
 
