@@ -11,10 +11,15 @@ Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci es
 
 ## Patrons
 
+### Fusées
+
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
 * [Ariane 6](./patterns/Ariane6/Ariane6.md)
 * [Vega C](./patterns/VegaC/VegaC.md)
 * [Falcon Heavy](./patterns/FalconHeavy/FalconHeavy.md)
+
+### Autres
+* [Moustache Movember](./patterns/Movember/Moustache.md)
 
 ## Conseils et fournitures
 
@@ -54,10 +59,14 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 ## Patterns
 
+### Rockets
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
 * [Ariane 6](./patterns/Ariane6/Ariane6.md)
 * [Vega C](./patterns/VegaC/VegaC.md)
 * [Falcon Heavy](./patterns/FalconHeavy/FalconHeavy.md)
+
+### Others
+* [Moustache Movember](./patterns/Movember/Moustache.md)
 
 ## Advices and supplies
 
