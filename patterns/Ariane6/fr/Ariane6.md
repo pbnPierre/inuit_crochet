@@ -155,5 +155,5 @@ Fermer et arrétez le travail.
 
 Assemblez les boosters (2 ou 4) face à face l'un à l'autre au niveau de la base du corps de la fusée
 
-Réfférez vous à la photo pour de la fusée assemblée pour plus de détails.
+Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 

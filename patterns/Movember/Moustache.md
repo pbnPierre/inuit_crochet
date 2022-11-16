@@ -70,6 +70,6 @@ Fermez et arrétez le travail.
 
 ## Assemblage
 
-Attachez les deux parties de la moistache ensemble et le tour est joué.
+Attachez les deux parties de la moustache ensemble et le tour est joué.
 
-Réfférez vous à la photo pour pour plus de détails.
+Référez vous à la photo pour pour plus de détails.
