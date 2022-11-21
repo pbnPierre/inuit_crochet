@@ -33,7 +33,7 @@ For each round you'll find the number of the round, the instructions and the tot
 
 For the wool I use the salsa onefrom cheval blanc brand and a crochet from Prym
 
-## Pattern
+## Ariane 5 Crochet Pattern
 
 ### Booster (x2)
 
@@ -69,7 +69,7 @@ Stuff the engine up to the middle
 
 Close and stop the work.
 
-### Corps de la fusée
+### Rocket Body
 
 Start by a 6 stich magic ring in white
 

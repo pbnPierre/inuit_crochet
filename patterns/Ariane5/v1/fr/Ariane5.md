@@ -34,7 +34,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 
 Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
-## Patron
+## Patron Crochet Ariane 5
 
 ### Booster (x2)
 

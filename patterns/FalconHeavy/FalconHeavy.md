@@ -6,7 +6,7 @@ Falcon Heavy est la fusée du géant américain SpaceX.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
-# Patron Falcon Heavy
+# Patron Crochet Falcon Heavy
 
 Ce patron permet de faire cette fusée Falcon Heavy de 40cm
 
@@ -153,7 +153,7 @@ For each round you'll find the number of the round, the instructions and the tot
 
 For the wool I use the Salsa of the Cheval blanc brand and Prym crochets
 
-### Pattern
+### Crochet Pattern Falcon Heavy 
 
 #### Rocket Body 
 

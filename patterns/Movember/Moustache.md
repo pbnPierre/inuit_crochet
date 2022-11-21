@@ -1,4 +1,4 @@
-# Movember Moustache
+# Moustache movember
 
 Ce patron permet de faire cette belle moustache d'environ 20cm
 
@@ -29,7 +29,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 
 Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
-## Patron
+## Patron Crochet Moustache
 
 ### Moustache (x2)
 
@@ -97,7 +97,7 @@ I use abreviates in the pattern here are them to help you read the pattern
 
 For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
 
-### Pattern
+### Mustache Crochet Pattern
 
 #### Mustache part (x2)
 

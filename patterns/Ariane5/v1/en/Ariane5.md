@@ -1,4 +1,4 @@
-# Ariane 5 pattern first draft
+# Ariane 5 pattern
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high
 
@@ -33,7 +33,7 @@ For each round you'll find the number of the round, the instructions, and the to
 * 1 yarn needle
 * padding
 
-## Pattern
+## Crochet Pattern Ariane 5
 
 ### Booster (x2)
 
