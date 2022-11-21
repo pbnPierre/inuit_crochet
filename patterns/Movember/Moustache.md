@@ -140,4 +140,4 @@ Close and stop the work.
 
 Attach the two parts of the mustache together and it's done.
 
-Refer tothe picture for more details
+Refer to the picture for more details
