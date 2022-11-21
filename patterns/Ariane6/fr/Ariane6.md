@@ -11,14 +11,14 @@ Difficulté: 1/5
 
 ## Terminologie
 
-J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
+J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
 
 * rg : Rang
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
 
-Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
+Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -59,7 +59,7 @@ Rembourrez bien le tube pour qu'il prenne une forme cylindrique.
 * Rg 36: (1 ms, 1 dim) x 5, 1 ms (11)
 * Rg 37: 5 dim (6)
 
-Fermez et arrétez le travail.
+Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
@@ -149,7 +149,7 @@ Rembourrez bien le tube
 * Rg 99: (1 ms, 1 dim) x 6, 1 dim (12)
 * Rg 100: 6 dim (6)
 
-Fermer et arrétez le travail.
+Fermer et arrêtez le travail.
 
 ## Assemblage
 

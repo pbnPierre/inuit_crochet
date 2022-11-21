@@ -13,7 +13,7 @@ Fusée Ariane 5 première version.
 * [Anglais](./v1/en/Ariane5.md)
 
 ## Deuxieme version
-Fusée Ariane 5 deuxième version.
+J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme version ci dessous.
 
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
@@ -35,8 +35,7 @@ Ariane 5 Rocket pattern first version.
 
 ## Second version
 
-Ariane 5 Rocket pattern second version.
-
+The pattern has been upgraded afterwards, you can find it just under
 ![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
 
 * [French](./v2/fr/Ariane5.md)

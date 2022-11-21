@@ -10,14 +10,14 @@ Difficulté: 1/5
 
 ## Terminologie
 
-J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
+J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
 
 * rg : Rang
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
 
-Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
+Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -121,7 +121,7 @@ Rembourrez bien la fin du tube pour qu'il prenne une belle forme cylindrique.
 * Rg 87: (1 ms, 1 dim) x 6 (12)
 * Rg 88: 6 dim (6)
 
-Fermez et arrétez le travail.
+Fermez et arrêtez le travail.
 
 ### Moteur
 
@@ -136,7 +136,7 @@ Commencer en blanc cassé par faire un cercle magique de 6 mailles
 * Rg 4: (4 ms, 1 aug) x 3 (18)
 * Rg 5: (5 ms, 1 aug) x 3 (21)
 
-Fermez et arrétez le travail laissez un long fil pour attacher à la fusée.
+Fermez et arrêtez le travail laissez un long fil pour attacher à la fusée.
 
 ### Assemblage
 
@@ -146,6 +146,6 @@ Attachez le moteur sous la fusée en plein centre.
 
 ## Customisations possibles
 
-Pour un rendu moins simplistes j'y ai ajoutés des pompons en bout du moteur pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
+Pour un rendu moins simpliste j'y ai ajouté des pompons en bout du moteur pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
 
 J'ai aussi brodé des motifs de logo ESA pour être plus fidèle à l'originale

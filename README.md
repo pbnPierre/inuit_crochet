@@ -2,7 +2,7 @@
 
 Ceci est mon espace public où je partage des patrons de ma création et tous les liens pour retrouver mes créations en crochet et comptes.
 
-Vous trouverez une traduction anglaise à la fin de chaque pas quand celle ci est disponible.
+Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
 
 ## Liens
 
@@ -33,7 +33,7 @@ J'utilise pour la plupart de mes ouvrages des crochets de taille 4. Mes préfér
 
 Pour la laine j'ai trouvé mon bonheur avec les pelotes salsa de Cheval blanc. Celles ci sont 60% coton 40% acrylique ce qui est un très bon compromis et offre un rendu et un toucher très agréable.
 
-Elles sont disponibles en pleins de colories différents [ici](https://www.laines-cheval-blanc.com/fr/fils-et-laines-ete/45-salsa.html)
+Elles sont disponibles en pleins de colories différents [ici](https://www.laines-cheval-blanc.com/fr/fils-et-laines-ete/45-salsa.html){:target="_blank" rel="noopener"}
 
 ### Changements de couleurs
 
@@ -43,7 +43,7 @@ Pour ceux qui ne connaissent pas il existe un petit tuto pour éviter les décal
 
 Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
 
-Pour plus de détail vous pouvez vous rendre sur http://creativecommons.org/licenses/
+Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
 
 # English version
 
@@ -89,4 +89,4 @@ There is a technique to avoid having ugly gaps when changing color you can find 
 
 All my work falls under creative commons licence than you can find [here](LICENCE.md).
 
-For more details visit http://creativecommons.org/licenses/
+For more details visit (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}

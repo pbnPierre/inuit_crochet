@@ -10,14 +10,14 @@ Difficulté: 1/5
 
 ## Terminologie
 
-J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
+J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
 
 * rg : Rang
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
 
-Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
+Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -66,7 +66,7 @@ Finissez de rembourrer
 * Rg 26: 12 dim (12)
 * Rg 27: 6 dim (6)
 
-Fermez et arrétez le travail.
+Fermez et arrêtez le travail.
 
 ## Assemblage
 

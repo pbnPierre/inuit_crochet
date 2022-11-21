@@ -10,14 +10,14 @@ Difficulté: 2/5
 
 ## Terminologie
 
-J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
+J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
 
 * rg : Rang
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
 
-Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
+Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -63,9 +63,9 @@ Faire le moteur en gris clair
 * Rg 4 : (1 ms, 1 aug) x 7 (21)
 * Rg 5 : (2 ms, 1 aug) x 7 (28)
 
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileure tenue
 
-Fermez et arrétez le travail.
+Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
@@ -105,7 +105,7 @@ Rembourrez bien le tube
 * Rg 88: (2 ms, 1 dim) x 6 (18)
 * Rg 89: (1 ms, 1 dim) x 6 (12)
 * Rg 90: 6 dim (6)
-Fermer et arrétez le travail.
+Fermer et arrêtez le travail.
 
 Faire le moteur vulcain en gris
 
@@ -118,9 +118,9 @@ Faire le moteur vulcain en gris
 * Rg 8 : (3 ms, 1 aug) x3 (15)
 * Rg 9 : (4 ms, 1 aug) x3 (18)
 
-Fermer et arrétez le travail.
+Fermer et arrêtez le travail.
 
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileure tenue
 
 ## Assemblage
 
@@ -130,7 +130,7 @@ Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 
 ## Customisations possibles
 
-Pour un rendu moins simplistes j'y ai ajoutés des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
+Pour un rendu moins simpliste j'y ai ajouté des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
 
 J'ai aussi brodé des motifs ESA et CNES sur les boosters
 

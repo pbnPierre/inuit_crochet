@@ -14,14 +14,14 @@ Ceci est la première version du patron que j'ai fait pour Ariane 5, une version
 
 ## Terminologie
 
-J'utilise des abbreviations dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
+J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
 
 * rg : Rang
 * ms : Mailles sérées
 * aug : Agmentation
 * dim : Diminution
 
-Pour chaque rang vous trouverez le numéro du rang, ses instructions puis entre parenthèses le nombre total de maille du rang
+Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
 ## Materiel
 
@@ -69,9 +69,9 @@ Faire le moteur en gris
 * Rg 4 : (1 ms, 1 aug) x 7 (21)
 * Rg 5 : (2 ms, 1 aug) x 7 (28)
 
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileure tenue
 
-Fermez et arrétez le travail.
+Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
@@ -92,7 +92,9 @@ Commencer par faire un cercle magique de 6 mailles
 * Rg 11 : (11 ms, 1 aug) x 3 (39)
 * Rg 12 : (12 ms, 1 aug) x 3 (42)
 * Rg 13-68 : 42 ms (42)
+
 Rembourrez bien le tube
+
 * Rg 69 : (12 ms, 1 dim) x 3 (39) 
 * Rg 70 : (11 ms, 1 dim) x 3 (36)
 * Rg 71 : (10 ms, 1 dim) x 3 (33)
@@ -102,7 +104,7 @@ Rembourrez bien le tube
 * Rg 75: (2 ms, 1 dim) x 7 (21) dans le brin arrière uniquement sur tout le rang
 * Rg 76: (1 ms, 1 dim) x 7 (14)
 * Rg 77: 8 dim (6)
-Fermer et arrétez le travail.
+Fermer et arrêtez le travail.
 
 Faire le moteur vulcain en gris
 
@@ -116,9 +118,9 @@ Faire le moteur vulcain en gris
 * Rg 9 : (4 ms, 1 aug) x3, 1ms (19)
 * Rg 10 : (5 ms, 1 aug) x3, 1ms (22)
 
-Fermer et arrétez le travail.
+Fermer et arrêtez le travail.
 
-Rembourrez le moteur jusqu'à mi hauteur pour une meileur tenue
+Rembourrez le moteur jusqu'à mi hauteur pour une meileure tenue
 
 ## Assemblage
 
@@ -128,7 +130,7 @@ Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 
 ## Customisations possibles
 
-Pour un rendu moins simplistes j'y ai ajoutés des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
+Pour un rendu moins simpliste j'y ai ajouté des pompons en bout des moteurs pour faire des flammes (Avec un mélange de laine rouge orange et jaune)
 
 J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l'originale
 

@@ -10,7 +10,7 @@ Difficulty: 2/5
 
 ## Warning
 
-This is the first version I made of the Ariane 5 crochet pattern, an imporved one can be found [here](../../v2/en/Ariane5.md)
+This is the first version I made of the Ariane 5 crochet pattern, an improved one can be found [here](../../v2/en/Ariane5.md)
 
 ## Terminology
 
@@ -22,7 +22,7 @@ I use abreviates in the pattern here are them to help you read the pattern
 * inc : Increase
 * dec : Decrease
 
-For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
+For each round you'll find the number of the round, the instructions, and the total number of stiches between parenthesis
 
 ## Supplies
 
@@ -91,7 +91,9 @@ Start by a 6 stich magic ring
 * Rnd 11 : (11 sc, 1 inc) x 3 (39)
 * Rnd 12 : (12 sc, 1 inc) x 3 (42)
 * Rnd 13-68 : 42 sc (42)
+
 Stuff the tube with the padding.
+
 * Rnd 69 : (12 sc, 1 dec) x 3 (39) 
 * Rnd 70 : (11 sc, 1 dec) x 3 (36)
 * Rnd 71 : (10 sc, 1 dec) x 3 (33)
