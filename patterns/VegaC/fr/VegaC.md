@@ -4,7 +4,7 @@ Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
 ![fusée](../../../media/patterns/vegac/custos.jpg)
 
-Temps nécécessaire: 5 heures
+Temps nécéssaire : 5 heures
 
 Difficulté: 1/5
 

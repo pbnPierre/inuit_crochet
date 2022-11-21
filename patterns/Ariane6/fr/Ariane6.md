@@ -5,7 +5,7 @@ Ce patron permet de faire cette fusée Ariane de 44cm en version 2 ou 4 boosters
 ![fusée2](../../../media/patterns/ariane6/fusee2.jpg)
 ![fusée4](../../../media/patterns/ariane6/fusee4.jpg)
 
-Temps nécécessaire: 8 heures
+Temps nécéssaire : 8 heures
 
 Difficulté: 1/5
 

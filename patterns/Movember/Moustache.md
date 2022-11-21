@@ -4,7 +4,7 @@ Ce patron permet de faire cette belle moustache d'environ 20cm
 
 ![moustache](../../media/patterns/moustache/moustache.jpg)
 
-Temps nécécessaire: 4 heures
+Temps nécéssaire : 4 heures
 
 Difficulté: 1/5
 

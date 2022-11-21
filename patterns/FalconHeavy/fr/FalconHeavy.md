@@ -4,7 +4,7 @@ Ce patron permet de faire cette fusée Falcon Heavy de 40cm
 
 ![corps](../../../media/patterns/falconheavy/fusee.jpg)
 
-Temps nécécessaire: 9 heures
+Temps nécéssaire : 9 heures
 
 Difficulté: 2/5
 

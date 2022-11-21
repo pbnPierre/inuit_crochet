@@ -4,7 +4,7 @@ Ce patron permet de faire cette fusée Ariane de 38cm
 
 ![fusée](../../../../media/patterns/ariane5/v2/fusee.jpg)
 
-Temps nécécessaire: 8 heures
+Temps nécéssaire : 8 heures
 
 Difficulté: 2/5
 
