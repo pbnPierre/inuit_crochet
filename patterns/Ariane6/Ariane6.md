@@ -10,8 +10,8 @@ Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
 Ce patron permet de faire cette fusée Ariane de 44cm en version 2 ou 4 boosters
 
-![fusée2](../../../media/patterns/ariane6/fusee2.jpg)
-![fusée4](../../../media/patterns/ariane6/fusee4.jpg)
+![fusée2](../../media/patterns/ariane6/fusee2.jpg)
+![fusée4](../../media/patterns/ariane6/fusee4.jpg)
 
 Temps nécessaire  : 8 heures
 
@@ -44,7 +44,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Booster (x4 ou x2)
 
-![booster](../../../media/patterns/ariane6/boosters.jpg)
+![booster](../../media/patterns/ariane6/boosters.jpg)
 
 Commencer par faire un cercle magique de 4 mailles en blanc
 
@@ -71,7 +71,7 @@ Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
-![corps](../../../media/patterns/ariane6/corps.jpg)
+![corps](../../media/patterns/ariane6/corps.jpg)
 
 Commencer par faire un cercle magique de 6 mailles en blanc
 
@@ -171,8 +171,8 @@ Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high with 2 or 4 boosters
 
-![fusée2](../../../media/patterns/ariane6/fusee2.jpg)
-![fusée4](../../../media/patterns/ariane6/fusee4.jpg)
+![fusée2](../../media/patterns/ariane6/fusee2.jpg)
+![fusée4](../../media/patterns/ariane6/fusee4.jpg)
 
 Time needed: 8 hours
 
@@ -206,7 +206,7 @@ For the wool I use the salsa onefrom cheval blanc brand and a crochet from Prym
 
 #### Booster (x4 ou x2)
 
-![booster](../../../media/patterns/ariane6/boosters.jpg)
+![booster](../../media/patterns/ariane6/boosters.jpg)
 
 Start by a 4 stich magic ring in white
 
@@ -233,7 +233,7 @@ Close and stop the work.
 
 #### Rocket body
 
-![corps](../../../media/patterns/ariane6/corps.jpg)
+![corps](../../media/patterns/ariane6/corps.jpg)
 
 Start by a 6 stich magic ring in white
 
