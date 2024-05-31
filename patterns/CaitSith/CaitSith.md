@@ -174,6 +174,8 @@ Fermer et arrêtez le travail.
 
 Repliez le haut du gant pour faire un revers.
 
+Sur l'un des deux collez l'autre aimant au pistolet à colle de manière à y accrocher le mégaphone
+
 ### Museau
 
 ![museau](../../media/patterns/caitsith/museau.jpg)
@@ -224,3 +226,6 @@ Changez de couleur pour du bleu marine
 * Rg 36: (1 ms, 1 dim) x 5 (10)
 
 Fermer et arrêtez le travail.
+
+### Fourure du ventre
+
