@@ -25,6 +25,7 @@ J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant 
 * mc : Maille coulée
 * aug : Agmentation
 * dim : Diminution
+* br : Bride
 
 Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
 
@@ -98,11 +99,11 @@ En bleu marine, commencez par faire un cercle magique de 5 mailles
 
 * Rg 1: 5 ms (5)
 * Rg 2: 5 aug (10)
-* Rg 2: 10 ms (10)
-* Rg 3: (1 ms, 1 aug) x 5 (15)
-* Rg 4: 15ms (15)
-* Rg 5: (1 ms, 1 aug, 1 ms) x 5 (20)
-* Rg 6: 20 ms (15)
+* Rg 3: 10 ms (10)
+* Rg 4: (1 ms, 1 aug) x 5 (15)
+* Rg 5: 15ms (15)
+* Rg 6: (1 ms, 1 aug, 1 ms) x 5 (20)
+* Rg 7: 20 ms (15)
 
 Fermer et arrêtez le travail.
 
@@ -156,3 +157,20 @@ Fermer et arrêtez le travail.
 
 Repliez le haut de la botte pour faire un revers.
 
+### Gants (x2)
+
+![gant](../../media/patterns/caitsith/gant.jpg)
+![gant2](../../media/patterns/caitsith/gant2.jpg)
+
+En blanc, commencez par faire un cercle magique de 6 mailles
+
+* Rg 1: 6 ms (6)
+* Rg 2: 6 aug (12)
+* Rg 3: (1 ms, 1 aug) x 6 (18)
+* Rg 4: 18 ms (18)
+* Rg 5: 1 [point pop corn](https://www.youtube.com/watch?v=EFbZb-qawS0), 17 ms (18)
+* Rg 6 à 12: 18 ms (18)
+
+Fermer et arrêtez le travail.
+
+Repliez le haut du gant pour faire un revers.
