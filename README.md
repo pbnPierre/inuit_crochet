@@ -20,6 +20,7 @@ Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci e
 
 ### Autres
 * [Moustache Movember](./patterns/Movember/Moustache.md)
+* [Cait Sith](./patterns/CaitSith/CaitSith.md)
 
 ## Conseils et fournitures
 
@@ -67,6 +68,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 ### Others
 * [Moustache Movember](./patterns/Movember/Moustache.md)
+* [Cait Sith](./patterns/CaitSith/CaitSith.md)
 
 ## Advices and supplies
 

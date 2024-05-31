@@ -38,6 +38,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 * 1 pelote orange
 * 1 pelote rouge
 * 1 pelote jaune
+* 1 pelote rose
 * 1 paire de ciseau
 * 1 aiguille à laine
 * 1 pistolet à colle
@@ -93,9 +94,65 @@ Collez un aimant à la base du mégaphone à l'aide d'un pistolet.
 
 ![oreilles](../../media/patterns/caitsith/oreilles.jpg)
 
-En orange, commencer par faire un cercle magique de 5 mailles en bleu marine
+En bleu marine, commencez par faire un cercle magique de 5 mailles
 
 * Rg 1: 5 ms (5)
 * Rg 2: 5 aug (10)
 * Rg 2: 10 ms (10)
 * Rg 3: (1 ms, 1 aug) x 5 (15)
+* Rg 4: 15ms (15)
+* Rg 5: (1 ms, 1 aug, 1 ms) x 5 (20)
+* Rg 6: 20 ms (15)
+
+Fermer et arrêtez le travail.
+
+Brodez le rose à l'intérieur de l'oreille
+
+### Cape
+
+![cape](../../media/patterns/caitsith/cape.jpg)
+
+En rouge, commencez par faire chaînette de 16 mailles
+
+Formez les rangs en allez et retours sur la chaînette de manière à faire un ouvrage plat.
+
+* Rg 1: 16 ms (18)
+* Rg 2: 1 dim, 16 ms (17)
+* Rg 3: 1 dim, 15 ms (16)
+* Rg 4: 1 dim, 14 ms (15)
+* Rg 5: 1 dim, 13 ms (14)
+* Rg 6: 1 dim, 12 ms (13)
+* Rg 7: 1 dim, 11 ms (12)
+* Rg 8: 1 dim, 10 ms (11)
+* Rg 9: 1 dim, 9 ms (10)
+
+Faire une chaînette de 16 mailles
+
+* Rg 10: 15 ms dans la chaînette, 8 ms (23)
+
+Faire une chaînette de 16 mailles
+
+Faire 15 ms le long de la chaînette et des mailles serrées sur tous le bord de la cape
+
+Fermer et arrêtez le travail.
+
+
+### Bottes (x2)
+
+![bottes](../../media/patterns/caitsith/bottes.jpg)
+
+En marron, commencez par faire une chaînette de 8 mailles
+
+* Rg 1: 1 aug dans la 2eme maille, 5 ms, 4 ms dans la dèrnière maille, 5ms de l'autre côté de la chaînette (16)
+* Rg 2: 2 aug, 5 ms, 4 aug, 5 ms, 2 aug (26)
+* Rg 3: 2 aug, 10 ms, 1 aug, 1 ms, 1 aug,  10 ms, 1 aug (31)
+* Rg 4: 31 ms dans le brin arrière (31)
+* Rg 5: 11 ms, 2 dim, 1 ms, 2 dim, 11ms (27)
+* Rg 6: 10 ms, 5 dim, 7 ms (22)
+* Rg 7: 10 ms, 2 dim, 8 ms (20)
+* Rg 8 à 14: 20 ms (20)
+
+Fermer et arrêtez le travail.
+
+Repliez le haut de la botte pour faire un revers.
+
