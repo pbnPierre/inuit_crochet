@@ -168,9 +168,50 @@ En blanc, commencez par faire un cercle magique de 6 mailles
 * Rg 2: 6 aug (12)
 * Rg 3: (1 ms, 1 aug) x 6 (18)
 * Rg 4: 18 ms (18)
-* Rg 5: 1 [point pop corn](https://www.youtube.com/watch?v=EFbZb-qawS0), 17 ms (18)
+* Rg 5: 1 [point pop corn](https://www.youtube.com/watch?v=EFbZb-qawS0){:target="_blank" rel="noopener"}, 17 ms (18)
 * Rg 6 à 12: 18 ms (18)
 
 Fermer et arrêtez le travail.
 
 Repliez le haut du gant pour faire un revers.
+
+### Museau
+
+![museau](../../media/patterns/caitsith/museau.jpg)
+
+En crème, commencez par faire une chaînette de 6 mailles
+
+* Rg 1: à partir de la 2eme maille 4 ms, 3 ms dans la dèrnière maille, 1 aug dans la dèrnière maille (12)
+* Rg 2: 1 aug, 3 ms, 3 aug, 3 ms, 2 aug (18)
+* Rg 3 à 4: 18 ms (18)
+
+Fermer et arrêtez le travail.
+
+### Bras (x2)
+
+![bras](../../media/patterns/caitsith/bras.jpg)
+
+En bleu marine, commencez par faire un cercle magique de 6 mailles
+
+* Rg 1: 6 ms (6)
+* Rg 2: 6 aug (12)
+* Rg 3 à 20: 12 ms (12)
+* Rg 21: (2 ms, 1 dim) x 3 (9)
+
+Fermer et arrêtez le travail.
+
+### Jambes (x2)
+
+![jambe](../../media/patterns/caitsith/jambe.jpg)
+
+En bleu marine, commencez par faire un cercle magique de 5 mailles
+
+* Rg 1: 5 ms (5)
+* Rg 2: 5 aug (10)
+* Rg 3: 1 ms, 1 aug (15)
+* Rg 4 à 28: 15 ms (15)
+* Rg 4 à 28: (1 ms, 1 dim) x 5 (10)
+
+Fermer et arrêtez le travail.
+
+### Queue
