@@ -215,6 +215,8 @@ Fermer et arrêtez le travail.
 
 ### Queue
 
+![queue](../../media/patterns/caitsith/queue.jpg)
+
 En crème, commencez par faire un cercle magique de 6 mailles
 
 * Rg 1: 1 ms 1 aug (9)
@@ -229,3 +231,4 @@ Fermer et arrêtez le travail.
 
 ### Fourure du ventre
 
+![ventre](../../media/patterns/caitsith/ventre.jpg)
