@@ -5,7 +5,8 @@
 La fusée VegaC est le micro lanceur du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
-# Patron VegaC
+
+# Patron crochet VegaC
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
@@ -159,7 +160,7 @@ J'ai aussi brodé des motifs de logo ESA pour être plus fidèle à l'originale
 
 # English Version
 
-## VegaC pattern
+## VegaC crochet pattern
 
 This pattern will describe how to do this VegaC rocket replica that 40cm high
 

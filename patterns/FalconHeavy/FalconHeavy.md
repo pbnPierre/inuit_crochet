@@ -120,7 +120,7 @@ Pour un look plus réaliste j'ai rajouté un logo, les lettrages et le drapeau a
 
 # English Version
 
-## Falcon Heavy pattern
+## Falcon Heavy crochet pattern
 
 This pattern will describe how to do this Flacon Heavy rocket replica that 40cm high
 

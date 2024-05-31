@@ -31,7 +31,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 ## Materiel
 
 * 1 crochet taille 4
-* 1 pelotes blanche
+* 1 pelote blanche
 * 1 pelote jaune
 * 1 pelote gris foncé
 * 1 paire de ciseau
@@ -167,7 +167,7 @@ Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 
 # English Version
 
-## Ariane 6
+## Ariane 6 crochet pattern
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high with 2 or 4 boosters
 
