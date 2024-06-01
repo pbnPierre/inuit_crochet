@@ -63,9 +63,9 @@ En jaune, commencez par faire chaînette de 24 mailles et fermez la pour faire u
 
 * Rg 1: 24 ms (24)
 * Rg 2: 24 ms (24)
-* Rg 3: (3 ch, 1 ms dans la 2e maille de la chaînette 1 mc dans la dèrnière maille de la chaînette, sautez une maille, 1 ms  x 5), 4 ch, 4 ms dans la 2e maille de la chaînette, 1 ms dans la 3e maille de la chaînette, 1 mc dans la dernière maille de la chainette, sautez une maille, 1ms
+* Rg 3: (3 ch, 1 ms dans la 2e maille de la chaînette 1 mc dans la dèrnière maille de la chaînette, sautez une maille, 1 ms  x 5), 4 ch, 4 ms dans la 2e maille de la chaînette, 1 ms dans la 3e maille de la chaînette, 1 mc dans la dernière maille de la chainette, sautez une maille, 1 ms
 
-Fermez et arrêtez le travail.
+Fermez et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Mégaphone
 
@@ -109,7 +109,7 @@ En bleu marine, commencez par faire un cercle magique de 5 mailles
 * Rg 6: (1 ms, 1 aug, 1 ms) x 5 (20)
 * Rg 7: 20 ms (15)
 
-Fermer et arrêtez le travail.
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 Brodez le rose à l'intérieur de l'oreille
 
@@ -190,7 +190,7 @@ En crème, commencez par faire une chaînette de 6 mailles
 * Rg 2: 1 aug, 3 ms, 3 aug, 3 ms, 2 aug (18)
 * Rg 3 à 4: 18 ms (18)
 
-Fermer et arrêtez le travail.
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 Fixez le nez de sécurité au milieu de l'ouvrage entre les rangs 2 et 3
 
@@ -206,7 +206,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 * Rg 2 à 19: 12 ms (12)
 * Rg 20: (2 ms, 1 dim) x 3 (9)
 
-Fermer et arrêtez le travail.
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Jambes (x2)
 
@@ -219,7 +219,7 @@ En bleu marine, commencez par faire un cercle magique de 5 mailles
 * Rg 3 à 27: 15 ms (15)
 * Rg 28: (1 ms, 1 dim) x 5 (10)
 
-Fermer et arrêtez le travail.
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Queue
 
@@ -235,7 +235,7 @@ Changez de couleur pour du bleu marine
 * Rg 13 à 35: 15 ms (15)
 * Rg 36: (1 ms, 1 dim) x 5 (10)
 
-Fermer et arrêtez le travail.
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Fourure du ventre
 
@@ -251,6 +251,8 @@ En crème, commencez par faire une chaînette de 7 mailles
 * Rg 10: 1 dim, 4 ms (5)
 
 Faites des mailles serrées sur tous le bord du ventre
+
+Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Corps
 
@@ -268,7 +270,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 * Rg 8: (7 ms, 1 aug) x6 (54)
 * Rg 9 à 16: 54 ms (54) en veillant à respecter le schema ci dessous à partir du tour 10 pour les changements de couleur
 
-![motif](../../media/patterns/caitsith/motif.jpg)
+![motif](../../media/patterns/caitsith/motif.png)
 
 * Rg 17: (2 ms, 1 aug) x 18 (72)
 * Rg 18 à 20 : 72 ms (72) 
@@ -294,6 +296,8 @@ Changez de couleur pour le bleu marine.
 * Rg 23: (2 ms, 1 dim) x 6 (18)
 * Rg 23: (1 ms, 1 dim) x 6 (12)
 * Rg : 6 dim (6)
+
+Fermer et arrêtez le travail.
 
 # English Version
 
@@ -351,19 +355,19 @@ For the wool I use the creative cotton from rico design brand and a crochet from
 
 ![crown](../../media/patterns/caitsith/couronne.jpg)
 
-En jaune, commencez par faire chaînette de 24 mailles et fermez la pour faire un cercle
+Yellow, start with a 24 stich chain and close it to make a circle
 
 * Rnd 1: 24 sc  (24)
 * Rnd 2: 24 sc  (24)
-* Rnd 3: (3 ch, 1 ms dans la 2e maille de la chaînette 1 mc dans la dèrnière maille de la chaînette, sautez une maille, 1 sc   x 5), 4 ch, 4 sc  dans la 2e maille de la chaînette, 1 sc  dans la 3e maille de la chaînette, 1 mc dans la dernière maille de la chainette, sautez une maille, 1ms
+* Rnd 3: (3 ch, 1 sc in 2nd stich 1 ss in the last, skip 1, 1 sc x 5), 4 ch, 4 sc in 2nd stich, 1 sc in 3rd, 1 ss in last, skip 1, 1 sc
 
-Fermez et arrêtez le travail.
+Cut and close the work. Leave long tail for sewing
 
-### Mégaphone
+### Speaker
 
-![megaphone](../../media/patterns/caitsith/megaphone.jpg)
+![speaker](../../media/patterns/caitsith/megaphone.jpg)
 
-En orange, commencez par faire chaînette de 12 mailles et fermez la pour faire un cercle
+Orange, start with a 12 stich chain and close it to make a circle
 
 * Rnd 1: 12 sc  (12)
 * Rnd 2: 12 sc  (12)
@@ -371,27 +375,27 @@ En orange, commencez par faire chaînette de 12 mailles et fermez la pour faire 
 * Rnd 4: 9 sc  (9)
 * Rnd 5: 9 sc  (9)
 * Rnd 6: (2 sc, 1 inc) x 3 (12)
-* Rnd 5: 12 sc  (12)
-* Rnd 5: 12 sc  (12)
-* Rnd 6: (3 sc, 1 inc) x 3 (15)
-* Rnd 5: 15 sc  (15)
-* Rnd 5: 15 sc  (15)
-* Rnd 6: (4 sc, 1 inc) x 3 (18)
-* Rnd 5: 18 sc  (18)
-* Rnd 5: 18 sc  (18)
-* Rnd 6: (5 sc, 1 inc) x 3 (21)
-* Rnd 5: 21 sc  (21)
-* Rnd 5: 21 sc  (21)
+* Rnd 7: 12 sc  (12)
+* Rnd 8: 12 sc  (12)
+* Rnd 9: (3 sc, 1 inc) x 3 (15)
+* Rnd 10: 15 sc  (15)
+* Rnd 11: 15 sc  (15)
+* Rnd 12: (4 sc, 1 inc) x 3 (18)
+* Rnd 13: 18 sc  (18)
+* Rnd 14: 18 sc  (18)
+* Rnd 15: (5 sc, 1 inc) x 3 (21)
+* Rnd 16: 21 sc  (21)
+* Rnd 17: 21 sc  (21)
 
-Fermer et arrêtez le travail.
+Cut and close the work.
 
-Collez un aimant à la base du mégaphone à l'aide d'un pistolet.
+Glue 1 magnet with the glue gun in the narrow part of the speaker.
 
-### Oreilles (x2)
+### Ears (x2)
 
-![oreilles](../../media/patterns/caitsith/oreilles.jpg)
+![ears](../../media/patterns/caitsith/oreilles.jpg)
 
-En bleu marine, commencez par faire un cercle magique de 5 mailles
+dark blue, start with a magic ring de 5 mailles
 
 * Rnd 1: 5 sc  (5)
 * Rnd 2: 5 inc  (10)
@@ -401,15 +405,15 @@ En bleu marine, commencez par faire un cercle magique de 5 mailles
 * Rnd 6: (1 sc, 1 inc, 1 ms) x 5 (20)
 * Rnd 7: 20 sc  (15)
 
-Fermer et arrêtez le travail.
+Cut and close the work. Leave long tail for sewing
 
-Brodez le rose à l'intérieur de l'oreille
+With the sewing needle add the pink on the front of the ears.
 
 ### Cape
 
 ![cape](../../media/patterns/caitsith/cape.jpg)
 
-En rouge, commencez par faire chaînette de 16 mailles
+Red, start with a 16 chain
 
 Formez les rangs en allez et retours sur la chaînette de manière à faire un ouvrage plat.
 
@@ -458,7 +462,7 @@ Repliez le haut de la botte pour faire un revers.
 ![gant](../../media/patterns/caitsith/gant.jpg)
 ![gant2](../../media/patterns/caitsith/gant2.jpg)
 
-En blanc, commencez par faire un cercle magique de 6 mailles
+En blanc, start with a magic ring de 6 mailles
 
 * Rnd 1: 6 inc  (12)
 * Rnd 2: (1 sc, 1 inc) x 6 (18)
@@ -492,7 +496,7 @@ Collez les grains de riz sous le museau pour faire les dents. Effet garanti.
 
 ![bras](../../media/patterns/caitsith/bras.jpg)
 
-En bleu marine, commencez par faire un cercle magique de 6 mailles
+En bleu marine, start with a magic ring de 6 mailles
 
 * Rnd 1: 6 inc  (12)
 * Rnd 2 à 19: 12 sc  (12)
@@ -504,7 +508,7 @@ Fermer et arrêtez le travail.
 
 ![jambe](../../media/patterns/caitsith/jambe.jpg)
 
-En bleu marine, commencez par faire un cercle magique de 5 mailles
+En bleu marine, start with a magic ring de 5 mailles
 
 * Rnd 1: 5 inc  (10)
 * Rnd 2: 1 sc, 1 inc  (15)
@@ -517,12 +521,12 @@ Fermer et arrêtez le travail.
 
 ![queue](../../media/patterns/caitsith/queue.jpg)
 
-En crème, commencez par faire un cercle magique de 6 mailles
+En crème, start with a magic ring de 6 mailles
 
 * Rnd 1: 1 sc  1 inc  (9)
 * Rnd 2 à 12: 15 sc  (15)
 
-Changez de couleur pour du bleu marine
+Change color for dark blue
 
 * Rnd 13 à 35: 15 sc  (15)
 * Rnd 36: (1 sc, 1 dec) x 5 (10)
@@ -531,7 +535,7 @@ Fermer et arrêtez le travail.
 
 ### Fourure du ventre
 
-En crème, commencez par faire une chaînette de 7 mailles
+En crème, commencez par faire une chaînette with 7 stiches
 
 ![ventre](../../media/patterns/caitsith/ventre.jpg)
 
@@ -548,7 +552,7 @@ Faites des mailles serrées sur tous le bord du ventre
 
 ![corps](../../media/patterns/caitsith/corps.jpg)
 
-En bleu marine, commencez par faire un cercle magique de 6 mailles
+En bleu marine, start with a magic ring with 6 stiches
 
 * Rnd 1: 6 inc  (12)
 * Rnd 2: (1 sc, 1 inc) x6 (18)
@@ -560,7 +564,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 * Rnd 8: (7 sc, 1 inc) x6 (54)
 * Rnd 9 à 16: 54 sc  (54) en veillant à respecter le schema ci dessous à partir du tour 10 pour les changements de couleur
 
-![motif](../../media/patterns/caitsith/motif.jpg)
+![motif](../../media/patterns/caitsith/motif.png)
 
 * Rnd 17: (2 sc, 1 inc) x 18 (72)
 * Rnd 18 à 20 : 72 sc  (72) 
@@ -570,7 +574,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 
 Cousez le museau entre le rangs 16 et 17
 
-Changez de couleur pour le bleu marine.
+Change color for le bleu marine.
 
 * Rnd 24: (4 sc, 1 dec) x 6 (30)
 * Rnd 25: (3 sc, 1 dec) x 6 (24)
