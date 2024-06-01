@@ -76,7 +76,7 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 
 ### Others
 * [Moustache Movember](./patterns/Movember/Moustache.md)
-* [Cait Sith](./patterns/CaitSith/CaitSith.md)
+* [Cait Sith](./patterns/CaitSith/en/CaitSith.md)
 
 ## Advices and supplies
 
