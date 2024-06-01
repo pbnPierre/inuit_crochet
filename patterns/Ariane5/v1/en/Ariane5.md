@@ -135,3 +135,13 @@ Reffer to the full rocket picture for more details.
 For a more realistic look I added pompoms to do the engine flames (with yellow, orange and red yarn)
 
 I also added flags and logos
+
+## Licence
+
+All my work falls under creative commons licence than you can find [here](LICENCE.md).
+
+For more details visit (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
+
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)

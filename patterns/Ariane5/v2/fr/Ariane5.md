@@ -137,3 +137,13 @@ J'ai aussi brodé des motifs ESA et CNES sur les boosters
 
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
+
+## Licence
+
+Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
+
+Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
+
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)

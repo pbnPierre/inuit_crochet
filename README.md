@@ -50,7 +50,7 @@ Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/lic
 
 Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
 
-![Buy me a coffee](./media/bmc_qr.png)
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
 
 # English version
 
@@ -70,12 +70,12 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 
 ### Rockets
 * [Ariane 5](./patterns/Ariane5/Ariane5.md)
-* [Ariane 6](./patterns/Ariane6/Ariane6.md)
-* [Vega C](./patterns/VegaC/VegaC.md)
-* [Falcon Heavy](./patterns/FalconHeavy/FalconHeavy.md)
+* [Ariane 6](./patterns/Ariane6/en/Ariane6.md)
+* [Vega C](./patterns/VegaC/en/VegaC.md)
+* [Falcon Heavy](./patterns/FalconHeavy/en/FalconHeavy.md)
 
 ### Others
-* [Moustache Movember](./patterns/Movember/Moustache.md)
+* [Moustache Movember](./patterns/Movember/en/Moustache.md)
 * [Cait Sith](./patterns/CaitSith/en/CaitSith.md)
 
 ## Advices and supplies
@@ -103,4 +103,4 @@ For more details visit (http://creativecommons.org/licenses/){:target="_blank" r
 
 To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
 
-![Buy me a coffee](./media/bmc_qr.png)
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)

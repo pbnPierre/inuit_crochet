@@ -20,6 +20,16 @@ J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme versi
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
 
+## Licence
+
+Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
+
+Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
+
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
+
 # English version
 
 Ariane 5 is the emblematic rocket of the centre spatial guyanais.
@@ -44,3 +54,13 @@ The pattern has been upgraded afterwards, you can find it just under
 
 * [French](./v2/fr/Ariane5.md)
 * [English](./v2/en/Ariane5.md)
+
+## Licence
+
+All my work falls under creative commons licence than you can find [here](LICENCE.md).
+
+For more details visit (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
+
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)

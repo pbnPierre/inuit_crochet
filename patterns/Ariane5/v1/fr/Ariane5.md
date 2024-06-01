@@ -141,3 +141,13 @@ J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l
 Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu améliorer et que je modifierai peut être dans une future versions 2 du patron.
 * Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
+
+## Licence
+
+Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
+
+Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
+
+[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
