@@ -6,6 +6,8 @@ Ariane 6 est l'évolution de sa petite soeur Ariane 5 et le futur des lanceurs d
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 # Patron Crochet Ariane 6
 
 Ce patron permet de faire cette fusée Ariane de 44cm en version 2 ou 4 boosters
@@ -177,6 +179,8 @@ This pattern will describe how to do this Ariane 5 rocket replica that is 38cm h
 Time needed: 8 hours
 
 Difficulty: 1/5
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 ### Terminology
 

@@ -4,6 +4,10 @@ Ceci est mon espace public où je partage des patrons de ma création et tous le
 
 Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
+![Buy me a coffee](./media/bmc_qr.png)
+
 ## Liens
 
 * [Inuit Crochet sur instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
@@ -46,11 +50,15 @@ Tout mon travail est sous licence creative commons que vous pouvez trouver [ici]
 
 Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
 
+Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
+
 # English version
 
 This is the place where I put all my crochet patterns and links to find all my creations and socials.
 
 You'll find an english translation at the bottom of each pages when avalable.
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 
 ## Links
@@ -92,3 +100,6 @@ There is a technique to avoid having ugly gaps when changing color you can find 
 All my work falls under creative commons licence than you can find [here](LICENCE.md).
 
 For more details visit (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+
+To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
+

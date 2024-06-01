@@ -8,6 +8,8 @@ Time needed: 8 hours
 
 Difficulty: 2/5
 
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
+
 ## Warning
 
 This is the first version I made of the Ariane 5 crochet pattern, an improved one can be found [here](../../v2/en/Ariane5.md)

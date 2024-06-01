@@ -8,6 +8,8 @@ Temps nécessaire  : 4 heures
 
 Difficulté: 1/5
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 ## Terminologie
 
 J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
@@ -85,6 +87,8 @@ This pattern will describe how to do this nice moustache
 Time needed: 4 hours
 
 Difficulty: 1/5
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 ### Terminology
 

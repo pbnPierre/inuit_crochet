@@ -6,6 +6,8 @@ Falcon Heavy est la fusée du géant américain SpaceX.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 # Patron Crochet Falcon Heavy
 
 Ce patron permet de faire cette fusée Falcon Heavy de 40cm
@@ -129,6 +131,8 @@ This pattern will describe how to do this Flacon Heavy rocket replica that 40cm 
 Time needed: 9 hours
 
 Difficulty: 2/5
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 ### Terminology
 

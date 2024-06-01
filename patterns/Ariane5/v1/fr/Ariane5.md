@@ -8,6 +8,8 @@ Temps nécessaire  : 8 heures
 
 Difficulté: 2/5
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 ## Attention
 
 Ceci est la première version du patron que j'ai fait pour Ariane 5, une version améliorée est disponible [ici](../../v2/en/Ariane5.md)

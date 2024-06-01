@@ -6,6 +6,8 @@ La fusée VegaC est le micro lanceur du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 # Patron crochet VegaC
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
@@ -169,6 +171,8 @@ This pattern will describe how to do this VegaC rocket replica that 40cm high
 Time needed: 5 hours
 
 Difficulty: 1/5
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 ### Terminology
 

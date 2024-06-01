@@ -5,6 +5,8 @@ Cait Sith est un personnage emblématique de l'univers de Final Fantasy 7 un de 
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 # Patron Crochet Cait Sith FF7 Rebirth
 
 Ce patron permet de faire cet amigurumi d'environ 30cm de hauteur
@@ -45,6 +47,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 * 1 pistolet à colle
 * 1 nez de sécurité (Ou du fil noir si vous voulez le broder)
 * 2 mini aimants
+* 2 grains de riz (Oui oui, vous verrez moi j'ai pris du riz Thaï et bio)
 * Rembourrage
 
 Pour la laine j'ai utilisé les pelotes creative cotton de chez rico design et un crochet en métal de chez Prym
@@ -187,6 +190,10 @@ En crème, commencez par faire une chaînette de 6 mailles
 * Rg 3 à 4: 18 ms (18)
 
 Fermer et arrêtez le travail.
+
+Fixez le nez de sécurité au milieu de l'ouvrage entre les rangs 2 et 3
+
+Collez les grains de riz sous le museau pour faire les dents. Effet garanti.
 
 ### Bras (x2)
 

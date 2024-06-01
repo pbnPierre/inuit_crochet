@@ -6,6 +6,8 @@ Ariane 5 est la fusée emblématique du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+
 ## Première version
 Fusée Ariane 5 première version.
 
@@ -23,6 +25,8 @@ J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme versi
 Ariane 5 is the emblematic rocket of the centre spatial guyanais.
 
 You'll find on this page crochet patterns I made for this
+
+If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
 ## First version
 
