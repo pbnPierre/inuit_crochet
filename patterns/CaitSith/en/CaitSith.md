@@ -1,6 +1,4 @@
-# English Version
-
-## Cait Sith FF7 Rebirth crochet pattern
+# Cait Sith FF7 Rebirth crochet pattern
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high with 2 or 4 boosters
 
@@ -12,7 +10,7 @@ Difficulty: 3/5
 
 If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet)
 
-### Terminology
+## Terminology
 
 I use abreviates in the pattern here are them to help you read the pattern
 
@@ -27,7 +25,7 @@ I use abreviates in the pattern here are them to help you read the pattern
 
 For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
 
-### Supplies
+## Supplies
 
 * 1 crochet size 4 or 3,5
 * 1 white ball of yarn
@@ -48,7 +46,7 @@ For each round you'll find the number of the round, the instructions and the tot
 
 For the wool I use the creative cotton from rico design brand and a crochet from Prym
 
-### Pattern
+## Pattern
 
 ### Crown
 
