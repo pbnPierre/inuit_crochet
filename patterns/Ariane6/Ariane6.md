@@ -204,7 +204,7 @@ For each round you'll find the number of the round, the instructions and the tot
 * 1 yarn needle
 * padding
 
-For the wool I use the salsa onefrom cheval blanc brand and a crochet from Prym
+For the wool I use the salsa one from cheval blanc brand and a crochet from Prym
 
 ### Pattern
 
