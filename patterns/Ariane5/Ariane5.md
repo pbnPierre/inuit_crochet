@@ -24,7 +24,7 @@ J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme versi
 
 Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
 
-Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+Pour plus de détail vous pouvez vous rendre sur [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
 
 Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
 
@@ -59,7 +59,7 @@ The pattern has been upgraded afterwards, you can find it just under
 
 All my work falls under creative commons licence than you can find [here](LICENCE.md).
 
-For more details visit (http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
+For more details visit [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
 
 To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
 
