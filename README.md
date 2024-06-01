@@ -28,7 +28,7 @@ Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoff
 
 ### Crochets
 
-J'utilise pour la plupart de mes ouvrages des crochets de taille 4. Mes préféres sont ceux de la marque Prym. Ils sont disponibles dans toutes les boutiques de loisirs créatifs et trouvable facilement sur Internet.
+J'utilise pour la plupart de mes ouvrages des crochets de taille 4, ou 3.5. Mes préféres sont ceux de la marque Prym. Ils sont disponibles dans toutes les boutiques de loisirs créatifs et trouvable facilement sur Internet.
 
 ![Crochet prym](./media/prym.jpg)
 
@@ -84,7 +84,7 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 
 ### Crochets
 
-For most of my creation I use prym crochets of size 4. They are available on a lot of shops and easilly found on the Internet.
+For most of my creation I use prym crochets of size 4 or 3.5. They are available on a lot of shops and easilly found on the Internet.
 
 ![Crochet prym](./media/prym.jpg)
 
