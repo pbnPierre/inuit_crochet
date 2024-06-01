@@ -108,3 +108,5 @@ To make short you are free to use, share and modify my work but not for a profes
 You can also [buy me some wool](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
 [![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+
+Favicon par [https://icons8.com](https://icons8.com)
