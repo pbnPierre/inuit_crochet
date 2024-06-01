@@ -4,3 +4,18 @@ title: Inuit Crochet
 description: Vous trouverez sur ce blog des liens vers mes travaux, des conseils et les patrons que j'ai rédigé
 favicon:
   source: media/favicon.png
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-archives
+
+social:
+  name: Pierre B aka Inuit Crochet
+  links:
+    - https://www.instagram.com/inuit_crochet
+    - https://pouet.chapril.org/@pierrobn
+    - https://buymeacoffee.com/inuitcrochet
+
