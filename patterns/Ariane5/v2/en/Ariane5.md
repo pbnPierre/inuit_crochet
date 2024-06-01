@@ -147,4 +147,4 @@ For more details visit (http://creativecommons.org/licenses/){:target="_blank" r
 
 To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
 
-[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
+[![Buy me a coffee](../../../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}

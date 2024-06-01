@@ -146,4 +146,4 @@ Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/lic
 
 Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
 
-[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
+[![Buy me a coffee](../../../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}

@@ -6,7 +6,7 @@ Ariane 6 est l'évolution de sa petite soeur Ariane 5 et le futur des lanceurs d
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
 # Patron Crochet Ariane 6
 
@@ -175,4 +175,4 @@ Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/lic
 
 Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
 
-[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
+[![Buy me a coffee](../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}

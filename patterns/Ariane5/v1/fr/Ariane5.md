@@ -8,7 +8,7 @@ Temps nécessaire  : 8 heures
 
 Difficulté: 2/5
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet)
+Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
 ## Attention
 
@@ -150,4 +150,4 @@ Pour plus de détail vous pouvez vous rendre sur (http://creativecommons.org/lic
 
 Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
 
-[![Buy me a coffee](./media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet)
+[![Buy me a coffee](../../../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
