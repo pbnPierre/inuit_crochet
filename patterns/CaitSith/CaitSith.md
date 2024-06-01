@@ -238,4 +238,59 @@ Fermer et arrêtez le travail.
 
 ### Fourure du ventre
 
+En crème, commencez par faire une chaînette de 7 mailles
+
 ![ventre](../../media/patterns/caitsith/ventre.jpg)
+
+* Rg 1: 7 ms (7)
+* Rg 2: 1 aug, 5 ms, 1 aug (9)
+* Rg 3 à 7: 9 ms (9)
+* Rg 8: 1 dim, 5 ms, 1 dim  (7)
+* Rg 9: 1 dim, 5 ms (6)
+* Rg 10: 1 dim, 4 ms (5)
+
+Faites des mailles serrées sur tous le bord du ventre
+
+### Corps
+
+![corps](../../media/patterns/caitsith/corps.jpg)
+
+En bleu marine, commencez par faire un cercle magique de 6 mailles
+
+* Rg 1: 6 aug (12)
+* Rg 2: (1 ms, 1 aug) x6 (18)
+* Rg 3: (1 ms, 1 aug, 1 ms) x6 (24)
+* Rg 4: (3 ms, 1 aug) x6 (30)
+* Rg 5: (2 ms, 1 aug, 2 ms) x6 (36)
+* Rg 6: (5 ms, 1 aug) x6 (42)
+* Rg 7: (3 ms, 1 aug, 3 ms) x6 (48)
+* Rg 8: (7 ms, 1 aug) x6 (54)
+* Rg 9 à 16: 54 ms (54) en veillant à respecter le schema ci dessous à partir du tour 10 pour les changements de couleur
+
+![motif](../../media/patterns/caitsith/motif.jpg)
+
+* Rg 17: (2ms, 1 aug) x 18 (72)
+* Rg 18 à 20 : 72 ms (72) 
+* Rg 21: (4 ms, 1 dim) x 12 (60)
+* Rg 22: (3 ms, 1 dim) x 12 (48)
+* Rg 23: (2 ms, 1 dim) x 12 (36)
+
+Cousez le museau entre le rangs 16 et 17
+
+Changez de couleur pour le bleu marine.
+
+* Rg 24: (4 ms, 1 dim) x 6 (30)
+* Rg 25: (3 ms, 1 dim) x 6 (24)
+* Rg 26: (2 ms, 1 dim) x 6 (18)
+* Rg 27: 18 ms (18)
+* Rg 28: (2 ms, 1 aug) x 6 (24)
+* Rg 29: (3 ms, 1 aug) x 6 (30)
+* Rg 30 à 32: 30 ms (30)
+* Rg 31: (4 ms, 1 aug) x 6 (36)
+* Rg 32 à 43: 30 ms (36)
+* Rg 21: (4 ms, 1 dim) x 6 (30)
+* Rg 22: (3 ms, 1 dim) x 6 (24)
+* Rg 23: (2 ms, 1 dim) x 6 (18)
+* Rg 23: (1 ms, 1 dim) x 6 (12)
+* Rg : 6 dim (6)
+
