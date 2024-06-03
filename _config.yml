@@ -13,15 +13,11 @@ minima:
 
 markdown: kramdown
 
-favicon:
-  source: media/favicon.png
-
 show_excerpts: true
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-favicon
   - jekyll-remote-theme
 
 header_pages:
