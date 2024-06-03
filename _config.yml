@@ -1,9 +1,6 @@
 theme: minima
 
 title: "Inuit Crochet"
-author:
-  name: "Pierre B"
-  email: "bertranpir@gmail.com"
 description: Vous trouverez sur ce blog des liens vers mes travaux, des conseils et les patrons que j'ai rédigé
 
 minima:
@@ -13,7 +10,6 @@ minima:
     - { platform: github, user_url: "https://github.com/pbnPierre" }
     - { platform: instagram, user_url: "https://www.instagram.com/inuit_crochet" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/pierre-bertrand-787b9288" }
-    
 
 markdown: kramdown
 
