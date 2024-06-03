@@ -2,6 +2,8 @@
 
 ![VegaC](../../media/VegaCdecollage.jpg)
 
+English version [here](./en/VegaC.md)
+
 La fusée VegaC est le micro lanceur du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.

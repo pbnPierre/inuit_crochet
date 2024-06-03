@@ -1,5 +1,9 @@
 # Movember Mustache
 
+Happy Movember!
+
+# Movember Mustache Pattern
+
 This pattern will describe how to do this nice moustache
 
 ![mustache](../../media/patterns/moustache/moustache.jpg)

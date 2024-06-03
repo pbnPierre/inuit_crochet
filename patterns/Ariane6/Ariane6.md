@@ -2,6 +2,8 @@
 
 ![Ariane](../../media/Ariane6.jpg)
 
+English version [here](./en/Ariane6.md)
+
 Ariane 6 est l'évolution de sa petite soeur Ariane 5 et le futur des lanceurs du centre spatial guyanais.
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.

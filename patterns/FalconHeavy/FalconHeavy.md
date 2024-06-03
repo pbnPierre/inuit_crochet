@@ -2,6 +2,8 @@
 
 ![FalconHeavy](../../media/FalconHeavy.jpg)
 
+English version [here](./en/FalconHeavy.md)
+
 Falcon Heavy est la fusée du géant américain SpaceX.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.

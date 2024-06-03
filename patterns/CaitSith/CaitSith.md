@@ -2,6 +2,8 @@
 
 ![Cait Sith Crochet](../../media/CaitSith.webp)
 
+English version [here](./en/CaitSith.md)
+
 Cait Sith est un personnage emblématique de l'univers de Final Fantasy 7 un de mes jeux de coeur de la société Square Enix
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
