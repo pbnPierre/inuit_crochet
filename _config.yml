@@ -24,9 +24,9 @@ social:
 
 
 header_pages:
-  - ./patterns/Ariane5/Ariane5.md
-  - ./patterns/Ariane6/Ariane6.md
-  - ./patterns/VegaC/VegaC.md
-  - ./patterns/FalconHeavy/FalconHeavy.md
-  - ./patterns/Movember/Moustache.md
-  - ./patterns/CaitSith/CaitSith.md
+  - patterns/Ariane5/Ariane5.md
+  - patterns/Ariane6/Ariane6.md
+  - patterns/VegaC/VegaC.md
+  - patterns/FalconHeavy/FalconHeavy.md
+  - patterns/Movember/Moustache.md
+  - patterns/CaitSith/CaitSith.md
