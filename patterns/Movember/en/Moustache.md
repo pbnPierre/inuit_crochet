@@ -6,7 +6,7 @@ Happy Movember!
 
 This pattern will describe how to do this nice moustache
 
-![mustache](../../media/patterns/moustache/moustache.jpg)
+![mustache](../../../media/patterns/moustache/moustache.jpg)
 
 Time needed: 4 hours
 
