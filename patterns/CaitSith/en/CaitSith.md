@@ -291,7 +291,7 @@ Change color for dark blue.
 
 ## Assembly
 
-![assemblage](../../../media/patterns/caitsith/assemblage.png)
+![assemblage](../../../media/patterns/caitsith/assemblage.jpg)
 
 Assembly everything like this:
 

@@ -303,7 +303,7 @@ Fermer et arrêtez le travail.
 
 ## Assemblage
 
-![assemblage](../../media/patterns/caitsith/assemblage.png)
+![assemblage](../../media/patterns/caitsith/assemblage.jpg)
 
 Assemblez le tout:
 
