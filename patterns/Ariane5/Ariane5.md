@@ -9,13 +9,19 @@ Vous trouverez sur cette page les liens vers des patrons de ma création autour 
 Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
 ## Première version
+
 Fusée Ariane 5 première version.
+
+![fusée](../../media/patterns/ariane5/v1/fusee.jpg)
 
 * [Français](./v1/fr/Ariane5.md)
 * [Anglais](./v1/en/Ariane5.md)
 
 ## Deuxieme version
+
 J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme version ci dessous.
+
+![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
 
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
@@ -52,6 +58,7 @@ Ariane 5 Rocket pattern first version.
 ## Second version
 
 The pattern has been upgraded afterwards, you can find it just under
+
 ![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
 
 * [French](./v2/fr/Ariane5.md)
