@@ -1,27 +1,32 @@
 theme: minima
 
+title: Inuit Crochet
+author:
+  name: Pierre B
+  email: bertranpir@gmail.com
+description: Vous trouverez sur ce blog des liens vers mes travaux, des conseils et les patrons que j'ai rédigé
+
 minima:
   skin: dark
+  social_links:
+    - { platform: mastodon,  user_url: "https://pouet.chapril.org/@pierrobn" }
+    - { platform: github, user_url: "https://github.com/pbnPierre" }
+    - { platform: instagram, user_url: "https://www.instagram.com/inuit_crochet" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/pierre-bertrand-787b9288" }
+    
 
 markdown: kramdown
-title: Inuit Crochet
-description: Vous trouverez sur ce blog des liens vers mes travaux, des conseils et les patrons que j'ai rédigé
+
 favicon:
   source: media/favicon.png
 
+show_excerpts: true
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-favicon
   - jekyll-remote-theme
-
-social:
-  name: Pierre B aka Inuit Crochet
-  links:
-    - https://www.instagram.com/inuit_crochet
-    - https://pouet.chapril.org/@pierrobn
-    - https://buymeacoffee.com/inuitcrochet
-
 
 header_pages:
   - patterns/Ariane5/Ariane5.md
