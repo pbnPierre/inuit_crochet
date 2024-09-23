@@ -1,5 +1,4 @@
-# Inuit Crochet
-
+# Français
 Ceci est mon espace public où je partage des patrons de ma création et tous les liens pour retrouver mes créations en crochet et comptes.
 
 Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
