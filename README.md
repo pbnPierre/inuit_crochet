@@ -8,7 +8,7 @@ Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoff
 ## Liens
 
 * [Inuit Crochet sur instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
-* [Mastodon](https://pouet.chapril.org/web/@pierrobn){:target="_blank" rel="me"}
+* [Mastodon](https://framapiaf.org/@pierrobn){:target="_blank" rel="me"}
 * [Ravelry](https://www.ravelry.com/designers/inuit-crochet){:target="_blank" rel="noopener"}
 
 ## Patrons
@@ -66,7 +66,7 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 ## Links
 
 * [Inuit Crochet on instagram](https://www.instagram.com/inuit_crochet/){:target="_blank" rel="noopener"}
-* [Mastodon](https://pouet.chapril.org/web/@pierrobn){:target="_blank" rel="me"}
+* [Mastodon](https://framapiaf.org/@pierrobn){:target="_blank" rel="me"}
 * [Ravelry](https://www.ravelry.com/designers/inuit-crochet){:target="_blank" rel="noopener"}
 
 ## Patterns
