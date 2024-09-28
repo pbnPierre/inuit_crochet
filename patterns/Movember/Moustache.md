@@ -14,7 +14,7 @@ Temps nécessaire  : 4 heures
 
 Difficulté: 1/5
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include _includes/fr/buymesomeyarn.md %}
 
 ## Terminologie
 
@@ -82,4 +82,4 @@ Attachez les deux parties de la moustache ensemble et le tour est joué.
 
 Référez vous à la photo pour pour plus de détails.
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}

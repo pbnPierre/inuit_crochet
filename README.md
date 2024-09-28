@@ -4,7 +4,7 @@ Ceci est mon espace public où je partage des patrons de ma création et tous le
 
 Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
 
-{% include_relative _includes/fr/buymesomeyarn.md %}
+{% include _includes/fr/buymesomeyarn.md %}
 
 ## Liens
 
@@ -43,7 +43,7 @@ Elles sont disponibles en pleins de colories différents [ici](https://www.laine
 
 Pour ceux qui ne connaissent pas il existe un petit tuto pour éviter les décalages lors des changements de couleur disponible [ici](https://www.youtube.com/watch?v=2KLlFhWrZYA){:target="_blank" rel="noopener"} 
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}
 
 # English version
 
@@ -51,7 +51,7 @@ This is the place where I put all my crochet patterns and links to find all my c
 
 You'll find an english translation at the bottom of each pages when avalable.
 
-{% include_relative _includes/en/buymesomeyarn.md %}
+{% include _includes/en/buymesomeyarn.md %}
 
 ## Links
 
@@ -88,13 +88,4 @@ They are available [here](https://www.laines-cheval-blanc.com/fr/fils-et-laines-
 
 There is a technique to avoid having ugly gaps when changing color you can find the tutorial in french [here](https://www.youtube.com/watch?v=2KLlFhWrZYA){:target="_blank" rel="noopener"} 
 
-## Licence
-
-All my work falls under creative commons licence than you can find [here](LICENCE.md).
-
-For more details visit [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
-
-To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
-
-
-Favicon par [https://icons8.com](https://icons8.com)
+{% include _includes/en/licence.md %}

@@ -138,4 +138,4 @@ J'ai aussi brodé des motifs ESA et CNES sur les boosters
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}

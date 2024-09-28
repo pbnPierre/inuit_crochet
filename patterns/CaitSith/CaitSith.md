@@ -8,7 +8,7 @@ Cait Sith est un personnage emblématique de l'univers de Final Fantasy 7 un de 
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include _includes/fr/buymesomeyarn.md %}
 
 ## Patron Crochet Cait Sith FF7 Rebirth
 
@@ -320,4 +320,4 @@ Et voilà maintenant admirez et profitez de votre merveilleux Cait Sith
 
 ![caitsith](../../media/patterns/caitsith/caitsith.jpg)
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}

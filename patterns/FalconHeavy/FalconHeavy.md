@@ -8,7 +8,8 @@ Falcon Heavy est la fusée du géant américain SpaceX.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+
+{% include _includes/fr/buymesomeyarn.md %}
 
 # Patron Crochet Falcon Heavy
 
@@ -122,4 +123,4 @@ Attachez un booster de chaque côté de la fusée pour que le bas des trois piè
 
 Pour un look plus réaliste j'ai rajouté un logo, les lettrages et le drapeau américain.
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}

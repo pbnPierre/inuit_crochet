@@ -142,4 +142,4 @@ Ceci est une première version du patron, une fois fini il y a quelques points q
 * Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
 
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}

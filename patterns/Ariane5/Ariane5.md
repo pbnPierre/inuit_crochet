@@ -6,7 +6,7 @@ Ariane 5 est la fusée emblématique du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
-{% include_relative _includes/fr/buymesomeyarn.md %}
+{% include _includes/fr/buymesomeyarn.md %}
 
 ## Première version
 
@@ -26,8 +26,7 @@ J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme versi
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
 
-
-{% include_relative _includes/fr/licence.md %}
+{% include _includes/fr/licence.md %}
 
 # English version
 
@@ -55,14 +54,4 @@ The pattern has been upgraded afterwards, you can find it just under
 * [French](./v2/fr/Ariane5.md)
 * [English](./v2/en/Ariane5.md)
 
-## Licence
-
-All my work falls under creative commons licence than you can find [here](LICENCE.md).
-
-For more details visit [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
-
-To make short you are free to use, share and modify my work but not for a professional purpose. And you have to reffer my Instagram or this blog when you share it.
-
-You can also [buy me some wool](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
-
-[![Buy me a coffee](../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include _includes/en/licence.md %}
