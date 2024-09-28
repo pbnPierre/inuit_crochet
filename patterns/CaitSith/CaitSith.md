@@ -320,15 +320,4 @@ Et voilà maintenant admirez et profitez de votre merveilleux Cait Sith
 
 ![caitsith](../../media/patterns/caitsith/caitsith.jpg)
 
-
-## Licence
-
-Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
-
-Pour plus de détail vous pouvez vous rendre sur [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
-
-Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
-
-Vous pouvez aussi [me payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
-
-[![Buy me a coffee](../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include_relative _includes/fr/licence.md %}

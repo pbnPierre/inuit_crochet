@@ -1,24 +1,34 @@
-# VegaC
+# Mascotte JO Paris 2024 (Phryge) 
 
 ![VegaC](../../media/VegaCdecollage.jpg)
 
-English version [here](./en/VegaC.md)
+English version [here](./en/Phryge.md)
 
-La fusée VegaC est le micro lanceur du centre spatial guyanais.
+La Phryge est la mascotte des JO de Paris 2024.
 
-Vous trouverez sur cette page le patron en crochet de ma création autour de celle ci.
+Vous trouverez sur cette page le patron en crochet pour réaliser celle ci.
 
 Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
-# Patron crochet VegaC
+## Important
 
-Ce patron permet de faire cette fusée VegaC d'environ 40cm
+Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable travail de lesptitesbouill Crochet que vous pouvez retrouver ici:
+
+* [Youtube](https://www.youtube.com/channel/UCQJ15rbfX1vV65Y-zn4fREw){:target="_blank" rel="noopener"}
+* [Instagram](https://www.instagram.com/lesptitesbouill_officiel/){:target="_blank" rel="noopener"}
+
+Vous trouverez le tuto complet avec plus de détails que sur ma version sur le tutoriel pas à pas sur youtube [ici](https://www.youtube.com/watch?v=hElENmnQ77c){:target="_blank" rel="noopener"}
+
+
+# Patron Phryge
+
+Ce patron permet de faire cette Phryge 25cm
 
 ![fusée](../../media/patterns/vegac/custos.jpg)
 
-Temps nécessaire  : 5 heures
+Temps nécessaire  : 7 heures
 
-Difficulté: 1/5
+Difficulté: 2/5
 
 ## Terminologie
 

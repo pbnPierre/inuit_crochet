@@ -4,7 +4,7 @@ Ceci est mon espace public où je partage des patrons de ma création et tous le
 
 Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
 
-{% include_relative _includes/en/buymesomeyarn.md %}
+{% include_relative _includes/fr/buymesomeyarn.md %}
 
 ## Liens
 
@@ -43,13 +43,7 @@ Elles sont disponibles en pleins de colories différents [ici](https://www.laine
 
 Pour ceux qui ne connaissent pas il existe un petit tuto pour éviter les décalages lors des changements de couleur disponible [ici](https://www.youtube.com/watch?v=2KLlFhWrZYA){:target="_blank" rel="noopener"} 
 
-## Licence
-
-Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
-
-Pour plus de détail vous pouvez vous rendre sur [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
-
-Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
+{% include_relative _includes/fr/licence.md %}
 
 # English version
 

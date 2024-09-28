@@ -142,14 +142,4 @@ Ceci est une première version du patron, une fois fini il y a quelques points q
 * Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
 
-## Licence
-
-Tout mon travail est sous licence creative commons que vous pouvez trouver [ici](LICENCE.md).
-
-Pour plus de détail vous pouvez vous rendre sur [creativecommons.org](http://creativecommons.org/licenses/){:target="_blank" rel="noopener"}
-
-Pour résumer vous êtes libre de partager, utiliser et modifier mon travail mais pas pour des buts commerciaux. Et vous devez me citez si vous en faites la promotion. (Mon compte instagram ou ce blog suffira)
-
-Vous pouvez aussi [me payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
-
-[![Buy me a coffee](../../../../media/bmc_qr.png)](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include_relative _includes/fr/licence.md %}
