@@ -306,4 +306,4 @@ There you are enjoy your wonderful Cait Sith
 
 ![caitsith](../../../media/patterns/caitsith/caitsith.jpg)
 
-{% include _includes/en/licence.md %}
+{% include /en/licence.md %}

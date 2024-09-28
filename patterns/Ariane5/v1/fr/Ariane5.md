@@ -8,7 +8,7 @@ Temps nécessaire  : 8 heures
 
 Difficulté: 2/5
 
-Si vous aimez mon travail, vous pouvez me [payer de la laine](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
+{% include /fr/buymesomeyarn.md %}
 
 ## Attention
 
@@ -142,4 +142,4 @@ Ceci est une première version du patron, une fois fini il y a quelques points q
 * Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}

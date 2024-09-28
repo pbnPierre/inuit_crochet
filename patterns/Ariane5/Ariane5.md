@@ -6,7 +6,7 @@ Ariane 5 est la fusée emblématique du centre spatial guyanais.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
-{% include _includes/fr/buymesomeyarn.md %}
+{% include /fr/buymesomeyarn.md %}
 
 ## Première version
 
@@ -26,7 +26,7 @@ J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme versi
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}
 
 # English version
 
@@ -54,4 +54,4 @@ The pattern has been upgraded afterwards, you can find it just under
 * [French](./v2/fr/Ariane5.md)
 * [English](./v2/en/Ariane5.md)
 
-{% include _includes/en/licence.md %}
+{% include /en/licence.md %}

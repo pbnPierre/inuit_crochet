@@ -14,7 +14,7 @@ Temps nécessaire  : 4 heures
 
 Difficulté: 1/5
 
-{% include _includes/fr/buymesomeyarn.md %}
+{% include /fr/buymesomeyarn.md %}
 
 ## Terminologie
 
@@ -82,4 +82,4 @@ Attachez les deux parties de la moustache ensemble et le tour est joué.
 
 Référez vous à la photo pour pour plus de détails.
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}

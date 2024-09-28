@@ -160,4 +160,4 @@ Attach the boosters to the side of the rocket. The booster motors must be on the
 
 Refer to the full rocket picture for more details.
 
-{% include _includes/en/licence.md %}
+{% include /en/licence.md %}

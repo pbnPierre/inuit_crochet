@@ -70,4 +70,4 @@ Attach the two parts of the mustache together and it's done.
 
 Refer to the picture for more details
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}

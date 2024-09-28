@@ -4,7 +4,7 @@ Ceci est mon espace public où je partage des patrons de ma création et tous le
 
 Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci est disponible.
 
-{% include _includes/fr/buymesomeyarn.md %}
+{% include /fr/buymesomeyarn.md %}
 
 ## Liens
 
@@ -43,7 +43,7 @@ Elles sont disponibles en pleins de colories différents [ici](https://www.laine
 
 Pour ceux qui ne connaissent pas il existe un petit tuto pour éviter les décalages lors des changements de couleur disponible [ici](https://www.youtube.com/watch?v=2KLlFhWrZYA){:target="_blank" rel="noopener"} 
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}
 
 # English version
 
@@ -51,7 +51,7 @@ This is the place where I put all my crochet patterns and links to find all my c
 
 You'll find an english translation at the bottom of each pages when avalable.
 
-{% include _includes/en/buymesomeyarn.md %}
+{% include /en/buymesomeyarn.md %}
 
 ## Links
 
@@ -88,4 +88,4 @@ They are available [here](https://www.laines-cheval-blanc.com/fr/fils-et-laines-
 
 There is a technique to avoid having ugly gaps when changing color you can find the tutorial in french [here](https://www.youtube.com/watch?v=2KLlFhWrZYA){:target="_blank" rel="noopener"} 
 
-{% include _includes/en/licence.md %}
+{% include /en/licence.md %}

@@ -8,7 +8,7 @@ Ariane 6 est l'évolution de sa petite soeur Ariane 5 et le futur des lanceurs d
 
 Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
-{% include _includes/fr/buymesomeyarn.md %}
+{% include /fr/buymesomeyarn.md %}
 
 # Patron Crochet Ariane 6
 
@@ -169,4 +169,4 @@ Assemblez les boosters (2 ou 4) face à face l'un à l'autre au niveau de la bas
 
 Référez vous à la photo pour de la fusée assemblée pour plus de détails.
 
-{% include _includes/fr/licence.md %}
+{% include /fr/licence.md %}

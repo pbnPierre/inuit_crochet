@@ -139,4 +139,4 @@ I also added ESA and CNES in letters on the boosters.
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
 ![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
 
-{% include _includes/en/licence.md %}
+{% include /en/licence.md %}
