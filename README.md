@@ -60,8 +60,7 @@ This is the place where I put all my crochet patterns and links to find all my c
 
 You'll find an english translation at the bottom of each pages when avalable.
 
-If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
-
+{% include_relative _includes/buymesomeyarn.md %}
 
 ## Links
 
