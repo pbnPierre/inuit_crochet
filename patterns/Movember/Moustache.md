@@ -8,7 +8,7 @@ English version [here](./en/Moustache.md)
 
 Ce patron permet de faire cette belle moustache d'environ 20cm
 
-![moustache](../../media/patterns/moustache/moustache.jpg)
+![moustache](/inuit_crochet/media/patterns/moustache/moustache.jpg)
 
 Temps nécessaire  : 4 heures
 

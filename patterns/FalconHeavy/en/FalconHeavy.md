@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this Flacon Heavy rocket replica that 40cm high
 
-![corps](../../../media/patterns/falconheavy/fusee.jpg)
+![corps](/inuit_crochet/media/patterns/falconheavy/fusee.jpg)
 
 Time needed: 9 hours
 
@@ -37,7 +37,7 @@ For the wool I use the Salsa of the Cheval blanc brand and Prym crochets
 
 ### Rocket Body 
 
-![corps](../../../media/patterns/falconheavy/corps.jpg)
+![corps](/inuit_crochet/media/patterns/falconheavy/corps.jpg)
 
 Use white yarn
 Start by 6 stich a magic ring.
@@ -78,7 +78,7 @@ Close and stop the work.
 
 ### Booster (x2)
 
-![booster](../../../media/patterns/falconheavy/booster.jpg)
+![booster](/inuit_crochet/media/patterns/falconheavy/booster.jpg)
 
 Start in white by a 6 stich magic ring
 
@@ -100,13 +100,13 @@ Close and stop the work.
 
 ### Assembly
 
-![assembly](../../../media/patterns/falconheavy/assemblage.jpg)
+![assembly](/inuit_crochet/media/patterns/falconheavy/assemblage.jpg)
 
 Attach the boosters on each side of the rocket body managing the bottom of each part to be at the same level.
 
 ## Possible Customizations
 
-![custos](../../../media/patterns/falconheavy/custos.jpg)
+![custos](/inuit_crochet/media/patterns/falconheavy/custos.jpg)
 
 For a more realistic look I added Logos and an american flag.
 

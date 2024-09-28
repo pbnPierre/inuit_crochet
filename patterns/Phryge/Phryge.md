@@ -1,6 +1,6 @@
 # Mascotte JO Paris 2024 (Phryge) 
 
-![VegaC](../../media/VegaCdecollage.jpg)
+![VegaC](/inuit_crochet/media/VegaCdecollage.jpg)
 
 English version [here](./en/Phryge.md)
 
@@ -24,7 +24,7 @@ Vous trouverez le tuto complet avec plus de détails que sur ma version sur le t
 
 Ce patron permet de faire cette Phryge 25cm
 
-![fusée](../../media/patterns/vegac/custos.jpg)
+![fusée](/inuit_crochet/media/patterns/vegac/custos.jpg)
 
 Temps nécessaire  : 7 heures
 
@@ -56,7 +56,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Corps de la fusée
 
-![corps](../../media/patterns/vegac/corps.jpg)
+![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
 
 Commencer en blanc cassé par faire un cercle magique de 6 mailles
 
@@ -147,7 +147,7 @@ Fermez et arrêtez le travail.
 
 ### Moteur
 
-![assemblage](../../media/patterns/vegac/moteur.jpg)
+![assemblage](/inuit_crochet/media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 
@@ -162,7 +162,7 @@ Fermez et arrêtez le travail laissez un long fil pour attacher à la fusée.
 
 ### Assemblage
 
-![fusée](../../media/patterns/vegac/assemblage.jpg)
+![fusée](/inuit_crochet/media/patterns/vegac/assemblage.jpg)
 
 Attachez le moteur sous la fusée en plein centre.
 

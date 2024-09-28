@@ -2,7 +2,7 @@
 
 Ce patron permet de faire cette fusée Ariane de 38cm
 
-![fusée](../../../../media/patterns/ariane5/v2/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/fusee.jpg)
 
 Temps nécessaire  : 8 heures
 
@@ -135,7 +135,7 @@ Pour un rendu moins simpliste j'y ai ajouté des pompons en bout des moteurs pou
 J'ai aussi brodé des motifs ESA et CNES sur les boosters
 
 
-![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
-![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/esacnes1.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/esacnes2.jpg)
 
 {% include /fr/licence.md %}

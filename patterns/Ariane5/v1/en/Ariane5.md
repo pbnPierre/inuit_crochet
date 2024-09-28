@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high
 
-![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v1/fusee.jpg)
 
 Time needed: 8 hours
 
@@ -39,8 +39,8 @@ For each round you'll find the number of the round, the instructions, and the to
 
 ### Booster (x2)
 
-![booster1](../../../../media/patterns/ariane5/v1/booster1.jpg)
-![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg)
+![booster1](/inuit_crochet/media/patterns/ariane5/v1/booster1.jpg)
+![booster2](/inuit_crochet/media/patterns/ariane5/v1/booster2.jpg)
 
 Start by a 4 stich magic ring
 
@@ -76,7 +76,7 @@ Close and stop the work.
 
 ### Rocket body
 
-![corps](../../../../media/patterns/ariane5/v1/corps.jpg)
+![corps](/inuit_crochet/media/patterns/ariane5/v1/corps.jpg)
 
 Start by a 6 stich magic ring
 

@@ -1,6 +1,6 @@
 # Ariane 5
 
-![Ariane](../../media/ArianeKourou.jpg)
+![Ariane](/inuit_crochet/media/ArianeKourou.jpg)
 
 Ariane 5 est la fusée emblématique du centre spatial guyanais.
 
@@ -12,7 +12,7 @@ Vous trouverez sur cette page les liens vers des patrons de ma création autour 
 
 Fusée Ariane 5 première version.
 
-![fusée](../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v1/fusee.jpg)
 
 * [Français](./v1/fr/Ariane5.md)
 * [Anglais](./v1/en/Ariane5.md)
@@ -21,7 +21,7 @@ Fusée Ariane 5 première version.
 
 J'ai un peu amélioré le patron par la suite, vous trouverez une deuxieme version ci dessous.
 
-![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/fusee.jpg)
 
 * [Français](./v2/fr/Ariane5.md)
 * [Anglais](./v2/en/Ariane5.md)
@@ -40,7 +40,7 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 
 Ariane 5 Rocket pattern first version.
 
-![fusée](../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v1/fusee.jpg)
 
 * [French](./v1/fr/Ariane5.md)
 * [English](./v1/en/Ariane5.md)
@@ -49,7 +49,7 @@ Ariane 5 Rocket pattern first version.
 
 The pattern has been upgraded afterwards, you can find it just under
 
-![fusée](../../media/patterns/ariane5/v2/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/fusee.jpg)
 
 * [French](./v2/fr/Ariane5.md)
 * [English](./v2/en/Ariane5.md)

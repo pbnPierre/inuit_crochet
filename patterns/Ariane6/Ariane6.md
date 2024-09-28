@@ -1,6 +1,6 @@
 # Ariane 6
 
-![Ariane](../../media/Ariane6.jpg)
+![Ariane](/inuit_crochet/media/Ariane6.jpg)
 
 English version [here](./en/Ariane6.md)
 
@@ -14,8 +14,8 @@ Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
 Ce patron permet de faire cette fusée Ariane de 44cm en version 2 ou 4 boosters
 
-![fusée2](../../media/patterns/ariane6/fusee2.jpg)
-![fusée4](../../media/patterns/ariane6/fusee4.jpg)
+![fusée2](/inuit_crochet/media/patterns/ariane6/fusee2.jpg)
+![fusée4](/inuit_crochet/media/patterns/ariane6/fusee4.jpg)
 
 Temps nécessaire  : 8 heures
 
@@ -48,7 +48,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Booster (x4 ou x2)
 
-![booster](../../media/patterns/ariane6/boosters.jpg)
+![booster](/inuit_crochet/media/patterns/ariane6/boosters.jpg)
 
 Commencer par faire un cercle magique de 4 mailles en blanc
 
@@ -75,7 +75,7 @@ Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
-![corps](../../media/patterns/ariane6/corps.jpg)
+![corps](/inuit_crochet/media/patterns/ariane6/corps.jpg)
 
 Commencer par faire un cercle magique de 6 mailles en blanc
 

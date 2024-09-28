@@ -1,6 +1,6 @@
 # Cait Sith FF7 Rebirth
 
-![Cait Sith Crochet](../../media/CaitSith.webp)
+![Cait Sith Crochet](/inuit_crochet/media/CaitSith.webp)
 
 English version [here](./en/CaitSith.md)
 
@@ -14,7 +14,7 @@ Vous trouverez sur cette page le patron de ma création qui s'en insipre.
 
 Ce patron permet de faire cet amigurumi d'environ 30cm de hauteur
 
-![caitsith](../../media/patterns/caitsith/caitsith.jpg)
+![caitsith](/inuit_crochet/media/patterns/caitsith/caitsith.jpg)
 
 Temps nécessaire  : 13 heures
 
@@ -59,7 +59,7 @@ Pour la laine j'ai utilisé les pelotes creative cotton de chez rico design et u
 
 ### Couronne
 
-![couronne](../../media/patterns/caitsith/couronne.jpg)
+![couronne](/inuit_crochet/media/patterns/caitsith/couronne.jpg)
 
 En jaune, commencez par faire chaînette de 24 mailles et fermez la pour faire un cercle
 
@@ -71,7 +71,7 @@ Fermez et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Mégaphone
 
-![megaphone](../../media/patterns/caitsith/megaphone.jpg)
+![megaphone](/inuit_crochet/media/patterns/caitsith/megaphone.jpg)
 
 En orange, commencez par faire chaînette de 12 mailles et fermez la pour faire un cercle
 
@@ -99,7 +99,7 @@ Collez un aimant à la base du mégaphone à l'aide d'un pistolet.
 
 ### Oreilles (x2)
 
-![oreilles](../../media/patterns/caitsith/oreilles.jpg)
+![oreilles](/inuit_crochet/media/patterns/caitsith/oreilles.jpg)
 
 En bleu marine, commencez par faire un cercle magique de 5 mailles
 
@@ -117,7 +117,7 @@ Brodez le rose à l'intérieur de l'oreille
 
 ### Cape
 
-![cape](../../media/patterns/caitsith/cape.jpg)
+![cape](/inuit_crochet/media/patterns/caitsith/cape.jpg)
 
 En rouge, commencez par faire chaînette de 16 mailles
 
@@ -146,7 +146,7 @@ Fermer et arrêtez le travail.
 
 ### Bottes (x2)
 
-![bottes](../../media/patterns/caitsith/bottes.jpg)
+![bottes](/inuit_crochet/media/patterns/caitsith/bottes.jpg)
 
 En marron, commencez par faire une chaînette de 8 mailles
 
@@ -165,8 +165,8 @@ Repliez le haut de la botte pour faire un revers.
 
 ### Gants (x2)
 
-![gant](../../media/patterns/caitsith/gant.jpg)
-![gant2](../../media/patterns/caitsith/gant2.jpg)
+![gant](/inuit_crochet/media/patterns/caitsith/gant.jpg)
+![gant2](/inuit_crochet/media/patterns/caitsith/gant2.jpg)
 
 En blanc, commencez par faire un cercle magique de 6 mailles
 
@@ -184,7 +184,7 @@ Sur l'un des deux collez l'autre aimant au pistolet à colle de manière à y ac
 
 ### Museau
 
-![museau](../../media/patterns/caitsith/museau.jpg)
+![museau](/inuit_crochet/media/patterns/caitsith/museau.jpg)
 
 En crème, commencez par faire une chaînette de 6 mailles
 
@@ -200,7 +200,7 @@ Collez les grains de riz sous le museau pour faire les dents. Effet garanti.
 
 ### Bras (x2)
 
-![bras](../../media/patterns/caitsith/bras.jpg)
+![bras](/inuit_crochet/media/patterns/caitsith/bras.jpg)
 
 En bleu marine, commencez par faire un cercle magique de 6 mailles
 
@@ -212,7 +212,7 @@ Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Jambes (x2)
 
-![jambe](../../media/patterns/caitsith/jambe.jpg)
+![jambe](/inuit_crochet/media/patterns/caitsith/jambe.jpg)
 
 En bleu marine, commencez par faire un cercle magique de 5 mailles
 
@@ -225,7 +225,7 @@ Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Queue
 
-![queue](../../media/patterns/caitsith/queue.jpg)
+![queue](/inuit_crochet/media/patterns/caitsith/queue.jpg)
 
 En crème, commencez par faire un cercle magique de 6 mailles
 
@@ -241,7 +241,7 @@ Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Fourure du ventre
 
-![ventre](../../media/patterns/caitsith/ventre.jpg)
+![ventre](/inuit_crochet/media/patterns/caitsith/ventre.jpg)
 
 En crème, commencez par faire une chaînette de 7 mailles
 
@@ -260,7 +260,7 @@ Fermer et arrêtez le travail. Laissez du mou pour l'assemblage
 
 ### Corps
 
-![corps](../../media/patterns/caitsith/corps.jpg)
+![corps](/inuit_crochet/media/patterns/caitsith/corps.jpg)
 
 En bleu marine, commencez par faire un cercle magique de 6 mailles
 
@@ -274,7 +274,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 * Rg 8: (7 ms, 1 aug) x6 (54)
 * Rg 9 à 16: 54 ms (54) en veillant à respecter le schema ci dessous à partir du tour 10 pour les changements de couleur
 
-![motif](../../media/patterns/caitsith/motif.png)
+![motif](/inuit_crochet/media/patterns/caitsith/motif.png)
 
 * Rg 17: (2 ms, 1 aug) x 18 (72)
 * Rg 18 à 20 : 72 ms (72) 
@@ -305,7 +305,7 @@ Fermer et arrêtez le travail.
 
 ## Assemblage
 
-![assemblage](../../media/patterns/caitsith/assemblage.jpg)
+![assemblage](/inuit_crochet/media/patterns/caitsith/assemblage.jpg)
 
 Assemblez le tout:
 
@@ -318,6 +318,6 @@ Assemblez le tout:
 
 Et voilà maintenant admirez et profitez de votre merveilleux Cait Sith
 
-![caitsith](../../media/patterns/caitsith/caitsith.jpg)
+![caitsith](/inuit_crochet/media/patterns/caitsith/caitsith.jpg)
 
 {% include /fr/licence.md %}

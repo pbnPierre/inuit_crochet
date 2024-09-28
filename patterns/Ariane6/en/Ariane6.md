@@ -2,8 +2,8 @@
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high with 2 or 4 boosters
 
-![fusée2](../../../media/patterns/ariane6/fusee2.jpg)
-![fusée4](../../../media/patterns/ariane6/fusee4.jpg)
+![fusée2](/inuit_crochet/media/patterns/ariane6/fusee2.jpg)
+![fusée4](/inuit_crochet/media/patterns/ariane6/fusee4.jpg)
 
 Time needed: 8 hours
 
@@ -39,7 +39,7 @@ For the wool I use the salsa one from cheval blanc brand and a crochet from Prym
 
 ### Booster (x4 ou x2)
 
-![booster](../../../media/patterns/ariane6/boosters.jpg)
+![booster](/inuit_crochet/media/patterns/ariane6/boosters.jpg)
 
 Start by a 4 stich magic ring in white
 
@@ -66,7 +66,7 @@ Close and stop the work.
 
 ### Rocket body
 
-![corps](../../../media/patterns/ariane6/corps.jpg)
+![corps](/inuit_crochet/media/patterns/ariane6/corps.jpg)
 
 Start by a 6 stich magic ring in white
 

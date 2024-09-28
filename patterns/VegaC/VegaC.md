@@ -1,6 +1,6 @@
 # VegaC
 
-![VegaC](../../media/VegaCdecollage.jpg)
+![VegaC](/inuit_crochet/media/VegaCdecollage.jpg)
 
 English version [here](./en/VegaC.md)
 
@@ -15,7 +15,7 @@ Vous trouverez sur cette page le patron en crochet de ma création autour de cel
 
 Ce patron permet de faire cette fusée VegaC d'environ 40cm
 
-![fusée](../../media/patterns/vegac/custos.jpg)
+![fusée](/inuit_crochet/media/patterns/vegac/custos.jpg)
 
 Temps nécessaire  : 5 heures
 
@@ -47,7 +47,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Corps de la fusée
 
-![corps](../../media/patterns/vegac/corps.jpg)
+![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
 
 Commencer en blanc cassé par faire un cercle magique de 6 mailles
 
@@ -138,7 +138,7 @@ Fermez et arrêtez le travail.
 
 ### Moteur
 
-![assemblage](../../media/patterns/vegac/moteur.jpg)
+![assemblage](/inuit_crochet/media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 
@@ -153,7 +153,7 @@ Fermez et arrêtez le travail laissez un long fil pour attacher à la fusée.
 
 ### Assemblage
 
-![fusée](../../media/patterns/vegac/assemblage.jpg)
+![fusée](/inuit_crochet/media/patterns/vegac/assemblage.jpg)
 
 Attachez le moteur sous la fusée en plein centre.
 

@@ -1,6 +1,6 @@
 # Falcon Heavy
 
-![FalconHeavy](../../media/FalconHeavy.jpg)
+![FalconHeavy](/inuit_crochet/media/FalconHeavy.jpg)
 
 English version [here](./en/FalconHeavy.md)
 
@@ -15,7 +15,7 @@ Vous trouverez sur cette page les liens vers des patrons de ma création autour 
 
 Ce patron permet de faire cette fusée Falcon Heavy de 40cm
 
-![corps](../../media/patterns/falconheavy/fusee.jpg)
+![corps](/inuit_crochet/media/patterns/falconheavy/fusee.jpg)
 
 Temps nécessaire  : 9 heures
 
@@ -47,7 +47,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Corps de la fusée 
 
-![corps](../../media/patterns/falconheavy/corps.jpg)
+![corps](/inuit_crochet/media/patterns/falconheavy/corps.jpg)
 
 Utilisez la laine blanche
 
@@ -89,7 +89,7 @@ Fermez et arrêtez le travail.
 
 ### Booster (x2)
 
-![booster](../../media/patterns/falconheavy/booster.jpg)
+![booster](/inuit_crochet/media/patterns/falconheavy/booster.jpg)
 
 Utilisez la laine blanche
 
@@ -113,13 +113,13 @@ Fermez et arrêtez le travail.
 
 ### Assemblage
 
-![assembly](../../media/patterns/falconheavy/assemblage.jpg)
+![assembly](/inuit_crochet/media/patterns/falconheavy/assemblage.jpg)
 
 Attachez un booster de chaque côté de la fusée pour que le bas des trois pièces soit au même niveau.
 
 ## Customisation possibles
 
-![custos](../../media/patterns/falconheavy/custos.jpg)
+![custos](/inuit_crochet/media/patterns/falconheavy/custos.jpg)
 
 Pour un look plus réaliste j'ai rajouté un logo, les lettrages et le drapeau américain.
 

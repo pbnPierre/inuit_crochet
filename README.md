@@ -31,7 +31,7 @@ Vous trouverez une traduction anglaise à la fin de chaque page quand celle ci e
 
 J'utilise pour la plupart de mes ouvrages des crochets de taille 4, ou 3.5. Mes préféres sont ceux de la marque Prym. Ils sont disponibles dans toutes les boutiques de loisirs créatifs et trouvable facilement sur Internet.
 
-![Crochet prym](./media/prym.jpg)
+![Crochet prym](/inuit_crochet/media/prym.jpg)
 
 ### Laine
 
@@ -77,7 +77,7 @@ You'll find an english translation at the bottom of each pages when avalable.
 
 For most of my creation I use prym crochets of size 4 or 3.5. They are available on a lot of shops and easilly found on the Internet.
 
-![Crochet prym](./media/prym.jpg)
+![Crochet prym](/inuit_crochet/media/prym.jpg)
 
 ### Wool
 And for the wool i love the salsa series of the brand Cheval Blanc. 60% cotton 40% acrylic good compromise and nice touch and result.

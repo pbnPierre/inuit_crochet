@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this VegaC rocket replica that 40cm high
 
-![corps](../../../media/patterns/vegac/custos.jpg)
+![corps](/inuit_crochet/media/patterns/vegac/custos.jpg)
 
 Time needed: 5 hours
 
@@ -37,7 +37,7 @@ For the wool I use the Salsa of the Cheval blanc brand and Prym crochets
 
 ### Rocket Body 
 
-![corps](../../../media/patterns/vegac/corps.jpg)
+![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
 
 Use white yarn
 Start by 6 stich a magic ring.
@@ -129,7 +129,7 @@ Close and stop the work.
 
 ### Engine
 
-![moteur](../../../media/patterns/vegac/moteur.jpg)
+![moteur](/inuit_crochet/media/patterns/vegac/moteur.jpg)
 
 Faire le moteur en gris foncé
 
@@ -146,7 +146,7 @@ Close leaving long tail to be able to attach it to the rocket body
 
 ### Assembly
 
-![assembly](../../../media/patterns/vegac/assemblage.jpg)
+![assembly](/inuit_crochet/media/patterns/vegac/assemblage.jpg)
 
 Attach the engine to the bottom of the rocket body.
 

@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high with 2 or 4 boosters
 
-![caitsith](../../../media/patterns/caitsith/caitsith.jpg)
+![caitsith](/inuit_crochet/media/patterns/caitsith/caitsith.jpg)
 
 Time needed: 13 hours
 
@@ -50,7 +50,7 @@ For the wool I use the creative cotton from rico design brand and a crochet from
 
 ### Crown
 
-![crown](../../../media/patterns/caitsith/couronne.jpg)
+![crown](/inuit_crochet/media/patterns/caitsith/couronne.jpg)
 
 Yellow, start with a 24 stich chain and close it to make a circle
 
@@ -62,7 +62,7 @@ Cut and close the work. Leave long tail for sewing
 
 ### Speaker
 
-![speaker](../../../media/patterns/caitsith/megaphone.jpg)
+![speaker](/inuit_crochet/media/patterns/caitsith/megaphone.jpg)
 
 Orange, start with a 12 stich chain and close it to make a circle
 
@@ -90,7 +90,7 @@ Glue 1 magnet with the glue gun in the narrow part of the speaker.
 
 ### Ears (x2)
 
-![ears](../../../media/patterns/caitsith/oreilles.jpg)
+![ears](/inuit_crochet/media/patterns/caitsith/oreilles.jpg)
 
 dark blue, start with a 5 magic ring
 
@@ -108,7 +108,7 @@ With the sewing needle add the pink on the front of the ears.
 
 ### Cape
 
-![cape](../../../media/patterns/caitsith/cape.jpg)
+![cape](/inuit_crochet/media/patterns/caitsith/cape.jpg)
 
 Red, start with a 16 chain
 
@@ -134,7 +134,7 @@ Cut and close the work.
 
 ### Boots (x2)
 
-![boots](../../../media/patterns/caitsith/bottes.jpg)
+![boots](/inuit_crochet/media/patterns/caitsith/bottes.jpg)
 
 Brown, start with a chain 8
 
@@ -153,8 +153,8 @@ Fold the top to make it thicker
 
 ### Gloves (x2)
 
-![gloves](../../../media/patterns/caitsith/gant.jpg)
-![gloves2](../../../media/patterns/caitsith/gant2.jpg)
+![gloves](/inuit_crochet/media/patterns/caitsith/gant.jpg)
+![gloves2](/inuit_crochet/media/patterns/caitsith/gant2.jpg)
 
 White, start with a 6 magic ring
 
@@ -172,7 +172,7 @@ Glue the other magnet on one of the gloves (has to be the right hand one), you'l
 
 ### Nose
 
-![nose](../../../media/patterns/caitsith/museau.jpg)
+![nose](/inuit_crochet/media/patterns/caitsith/museau.jpg)
 
 Cream,  start with a chain 6
 
@@ -188,7 +188,7 @@ Glue the two rice grain to make the teeth. Wow effect
 
 ### Arms (x2)
 
-![arms](../../../media/patterns/caitsith/bras.jpg)
+![arms](/inuit_crochet/media/patterns/caitsith/bras.jpg)
 
 Dark blue, start with a 6 magic ring
 
@@ -200,7 +200,7 @@ Cut and close the work.
 
 ### Legs (x2)
 
-![legs](../../../media/patterns/caitsith/jambe.jpg)
+![legs](/inuit_crochet/media/patterns/caitsith/jambe.jpg)
 
 Dark blue, start with a 5 magic ring
 
@@ -213,7 +213,7 @@ Cut and close the work. Leave long tail for sewing
 
 ### Tail
 
-![tail](../../../media/patterns/caitsith/queue.jpg)
+![tail](/inuit_crochet/media/patterns/caitsith/queue.jpg)
 
 Cream, start with a 6 magic ring
 
@@ -231,7 +231,7 @@ Cut and close the work. Leave long tail for sewing
 
 Creal, start with a chain 7
 
-![belly](../../../media/patterns/caitsith/ventre.jpg)
+![belly](/inuit_crochet/media/patterns/caitsith/ventre.jpg)
 
 Crochet back and forth to make a flat thing.
 
@@ -248,7 +248,7 @@ Cut and close the work. Leave long tail for sewing
 
 ### Body
 
-![Body](../../../media/patterns/caitsith/corps.jpg)
+![Body](/inuit_crochet/media/patterns/caitsith/corps.jpg)
 
 Dark blue, start with a 6 magic ring
 
@@ -262,7 +262,7 @@ Dark blue, start with a 6 magic ring
 * Rnd 8: (7 sc, 1 inc) x6 (54)
 * Rnd 9 to 16: 54 sc (54) follow the color pattern changing below
 
-![pattern](../../../media/patterns/caitsith/motif.png)
+![pattern](/inuit_crochet/media/patterns/caitsith/motif.png)
 
 * Rnd 17: (2 sc, 1 inc) x 18 (72)
 * Rnd 18 to 20 : 72 sc  (72) 
@@ -291,7 +291,7 @@ Change color for dark blue.
 
 ## Assembly
 
-![assemblage](../../../media/patterns/caitsith/assemblage.jpg)
+![assemblage](/inuit_crochet/media/patterns/caitsith/assemblage.jpg)
 
 Assembly everything like this:
 
@@ -304,6 +304,6 @@ Assembly everything like this:
 
 There you are enjoy your wonderful Cait Sith
 
-![caitsith](../../../media/patterns/caitsith/caitsith.jpg)
+![caitsith](/inuit_crochet/media/patterns/caitsith/caitsith.jpg)
 
 {% include /en/licence.md %}

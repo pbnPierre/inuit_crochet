@@ -2,7 +2,7 @@
 
 Ce patron permet de faire cette fusée Ariane de 38cm
 
-![fusée](../../../../media/patterns/ariane5/v1/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v1/fusee.jpg)
 
 Temps nécessaire  : 8 heures
 
@@ -40,8 +40,8 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ### Booster (x2)
 
-![booster1](../../../../media/patterns/ariane5/v1/booster1.jpg)
-![booster2](../../../../media/patterns/ariane5/v1/booster2.jpg)
+![booster1](/inuit_crochet/media/patterns/ariane5/v1/booster1.jpg)
+![booster2](/inuit_crochet/media/patterns/ariane5/v1/booster2.jpg)
 
 Commencer par faire un cercle magique de 4 mailles
 
@@ -77,7 +77,7 @@ Fermez et arrêtez le travail.
 
 ### Corps de la fusée
 
-![corps](../../../../media/patterns/ariane5/v1/corps.jpg)
+![corps](/inuit_crochet/media/patterns/ariane5/v1/corps.jpg)
 
 Commencer par faire un cercle magique de 6 mailles
 

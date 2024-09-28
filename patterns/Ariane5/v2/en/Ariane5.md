@@ -2,7 +2,7 @@
 
 This pattern will describe how to do this Ariane 5 rocket replica that is 38cm high
 
-![fusée](../../../../media/patterns/ariane5/v2/fusee.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/fusee.jpg)
 
 Time needed: 8 hours
 
@@ -136,7 +136,7 @@ For a more realistic look I added flames with scuplted pompoms (Using mixed red 
 
 I also added ESA and CNES in letters on the boosters.
 
-![fusée](../../../../media/patterns/ariane5/v2/esacnes1.jpg)
-![fusée](../../../../media/patterns/ariane5/v2/esacnes2.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/esacnes1.jpg)
+![fusée](/inuit_crochet/media/patterns/ariane5/v2/esacnes2.jpg)
 
 {% include /en/licence.md %}
