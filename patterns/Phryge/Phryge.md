@@ -1,6 +1,6 @@
 # Mascotte JO Paris 2024 (Phryge)
 
-![VegaC](/inuit_crochet/media/VegaCdecollage.jpg)
+![Phryge](/inuit_crochet/media/phryge.jpg)
 
 English version [here](./en/Phryge.md)
 
@@ -19,12 +19,13 @@ Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable 
 
 Vous trouverez le tuto complet avec plus de détails que sur ma version sur le tutoriel pas à pas sur youtube [ici](https://www.youtube.com/watch?v=hElENmnQ77c){:target="_blank" rel="noopener"}
 
+La Phryge est une marque déposée du CIO et de Paris 2024.
 
 # Patron Phryge
 
 Ce patron permet de faire cette Phryge 25cm
 
-![fusée](/inuit_crochet/media/patterns/vegac/custos.jpg)
+![Phryge](/inuit_crochet/media/patterns/phryge/phryge.jpg)
 
 Temps nécessaire  : 7 heures
 
@@ -48,96 +49,61 @@ Pour la laine j'utilise la creative cotton de Rico design
 
 ### Corps
 
-![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
+Commencer en rouge par faire un cercle magique de 6 mailles
 
-Commencer en blanc cassé par faire un cercle magique de 6 mailles
+* Rg 1: (1 aug) x 6 (12)
+* Rg 3: (1 ms, 1 aug) x 6 (18)
+* Rg 2: (2 ms, 1 aug) x 6 (24)
+* Rg 4: (3 ms, 1 aug) x 6 (30)
+* Rg 5: (4 ms, 1 aug) x 6 (36)
+* Rg 6: (5 ms, 1 aug) x 6 (42)
+* Rg 7-12: 42 ms (42)
+* Rg 14: (6 ms, 1 aug) x 6 (48)
+* Rg 15-17: 48ms (48)
+* Rg 18: (7 ms, 1 aug) x 6 (54)
+* Rg 19-20: 54ms (54)
+* Rg 21: (8 ms, 1 aug) x 6 (60)
+* Rg 22: 60ms (60)
+* Rg 23: (9 ms, 1 aug) x 6 (66)
+* Rg 24: 66ms (66)
+* Rg 25: (10 ms, 1 aug) x 6 (72)
+* Rg 26: 72ms (72)
+* Rg 27: (11 ms, 1 aug) x 6 (78)
+* Rg 28: 78ms (78)
+* Rg 29: (12 ms, 1 aug) x 6 (84)
+* Rg 30-33: 84ms (84)
+* Rg 34: 84ms (84) dans le brin avant uniquement sur tout le rang
+* Rg 35-37: 84ms (84)
 
-* Rg 1: (1 ms, 1 aug) x 3 (9)
-* Rg 3: (3 ms, 1 aug) x 3 (15)
-* Rg 2: (2 ms, 1 aug) x 3 (12)
-* Rg 4: (4 ms, 1 aug) x 3 (18)
-* Rg 5: (5 ms, 1 aug) x 3 (21)
-* Rg 6: (6 ms, 1 aug) x 3 (24)
-* Rg 7: (7 ms, 1 aug) x 3 (27)
-* Rg 8: (8 ms, 1 aug) x 3 (30)
-* Rg 9: (9 ms, 1 aug) x 3 (33)
-* Rg 10-18: 33 ms (33)
-* Rg 19: (9 ms, 1 dim) x 3 (30)
-* Rg 20: (8 ms, 1 dim) x 3 (27)
-* Rg 21: (7 ms, 1 dim) x 3 (24)
-* Rg 22: (6 ms, 1 dim) x 3 (21)
-* Rg 23: (5 ms, 1 dim) x 3 (18)
-* Rg 24: (4 ms, 1 dim) x 3 (15)
-
-Rembourrez bien la coiffe de la fusée
-
-Passez en gris foncé
-* Rg 25: 15 ms (15)
-
-Repassez en blanc cassé
-* Rg 26: 15 ms (15)
-* Rg 27: (4 ms, 1 aug) x 3 (18)
-* Rg 28: 18 ms (18)
-
-Passez en gris foncé
-* Rg 29: 18 ms (18)
-
-Repassez en blanc cassé
-* Rg 30-35: 18 ms (18)
-
-Passez en gris foncé
-* Rg 36: 18 ms (18)
-
-Repassez en blanc cassé
-* Rg 37: 18 ms (18)
-* Rg 38: (5 ms, 1 aug) x 3 (21)
-* Rg 39: 21 ms (21)
-* Rg 40: (6 ms, 1 aug) x 3 (24)
-* Rg 41: 24 ms (24)
-
-Arrivé à mi hauteur rembourrez bien le corps de la fusée pour qu'il prenne une belle forme cylindrique.
-
-Passez en gris foncé
-* Rg 42: 24 ms (24)
-
-Repassez en blanc cassé
-* Rg 43-57: 24 ms (24)
-
-Passez en gris foncé
-* Rg 58: 24 ms (24)
-
-Repassez en blanc cassé
-* Rg 59: 24 ms (24)
-* Rg 60: (7 ms, 1 aug) x 3 (27)
-* Rg 61: 27 ms (27)
-* Rg 62: (8 ms, 1 aug) x 3 (30)
-* Rg 63: 30 ms (30)
-
-Passez en gris foncé
-* Rg 58: 30 ms (30)
-
-Repassez en blanc cassé
-* Rg 59-79: 30 ms (30)
-
-Passez en gris foncé
-* Rg 80: 30 ms (30)
-
-Repassez en blanc cassé
-* Rg 81-82: 30 ms (30)
-
-Passez en gris foncé
-* Rg 83: 30 ms (30)
-
-Rembourrez bien la fin du tube pour qu'il prenne une belle forme cylindrique.
-* Rg 84: 30 ms (30)
-* Rg 85: (3 ms, 1 dim) x 6 (24) dans le brin arrière uniquement sur tout le rang
-* Rg 86: (2 ms, 1 dim) x 6 (18)
-* Rg 87: (1 ms, 1 dim) x 6 (12)
-* Rg 88: 6 dim (6)
+Insérez les yeux de sécurité entre les tours 18 et 19 en laissant 8 mailles entre.
 
 Fermez et arrêtez le travail.
 
-### Moteur
+Prenez le fil bleu et commencez à crocheter à l'intérieur de l'ouvrage sur le brin arrière du rang 34 du corps
+
+* Rg 1: (12ms, 1 dim) x 6 (78)
+* Rg 2: (11ms, 1 dim) x 6 (72)
+* Rg 3: (10ms, 1 dim) x 6 (66)
+* Rg 4: (9ms, 1 dim) x 6 (60)
+* Rg 5: (8ms, 1 dim) x 6 (54)
+* Rg 6: (7ms, 1 dim) x 6 (48)
+* Rg 7: (6ms, 1 dim) x 6 (42)
+* Rg 8: (5ms, 1 dim) x 6 (36)
+
+Rembourrez bien le corps
+
+* Rg 9: (4ms, 1 dim) x 6 (30)
+* Rg 10: (3ms, 1 dim) x 6 (24)
+* Rg 11 (2ms, 1 dim) x 6 (18)
+* Rg 12: (1ms, 1 dim) x 6 (12)
+
+Finissez de rembourrer le corps
+
+* Rg 13: 6 dim (6)
+
+Fermez et arrêtez le travail.
+
+### Front et mains
 
 ![assemblage](/inuit_crochet/media/patterns/vegac/moteur.jpg)
 
