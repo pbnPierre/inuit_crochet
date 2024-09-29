@@ -1,4 +1,4 @@
-# Mascotte JO Paris 2024 (Phryge) 
+# Mascotte JO Paris 2024 (Phryge)
 
 ![VegaC](/inuit_crochet/media/VegaCdecollage.jpg)
 
@@ -12,7 +12,7 @@ Vous trouverez sur cette page le patron en crochet pour réaliser celle ci.
 
 ## Important
 
-Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable travail de lesptitesbouill Crochet que vous pouvez retrouver ici:
+Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable travail de lesptitesbouill crochet que vous pouvez retrouver ici:
 
 * [Youtube](https://www.youtube.com/channel/UCQJ15rbfX1vV65Y-zn4fREw){:target="_blank" rel="noopener"}
 * [Instagram](https://www.instagram.com/lesptitesbouill_officiel/){:target="_blank" rel="noopener"}
@@ -30,31 +30,23 @@ Temps nécessaire  : 7 heures
 
 Difficulté: 2/5
 
-## Terminologie
-
-J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
-
-* rg : Rang
-* ms : Mailles sérées
-* aug : Agmentation
-* dim : Diminution
-
-Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
+{% include /fr/terminologies.md %}
 
 ## Materiel
 
 * 1 crochet taille 4
-* 2 pelotes blanc cassée
-* 1 pelote gris foncée
-* 1 paire de ciseau
+* 2 pelotes rouges
+* 1 pelote blanc
+* Un peu de laine de couleur pour broder le logo et les anneaux 
+* 1 paire de ciseaux
 * 1 aiguille à laine
 * Rembourrage
 
-Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
+Pour la laine j'utilise la creative cotton de Rico design
 
 ## Patron
 
-### Corps de la fusée
+### Corps
 
 ![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
 

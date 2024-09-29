@@ -8,7 +8,6 @@ Falcon Heavy est la fusée du géant américain SpaceX.
 
 Vous trouverez sur cette page les liens vers des patrons de ma création autour de celle ci.
 
-
 {% include /fr/buymesomeyarn.md %}
 
 # Patron Crochet Falcon Heavy
@@ -21,23 +20,14 @@ Temps nécessaire  : 9 heures
 
 Difficulté: 2/5
 
-## Terminologie
-
-J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
-
-* rg : Rang
-* ms : Mailles sérées
-* aug : Agmentation
-* dim : Diminution
-
-Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
+{% include /fr/terminologies.md %}
 
 ## Materiel
 
 * 1 crochet taille 4
 * 2 pelotes blanches
 * 1 pelote noires
-* 1 paire de ciseau
+* 1 paire de ciseaux
 * 1 aiguille à laine
 * Rembourrage
 

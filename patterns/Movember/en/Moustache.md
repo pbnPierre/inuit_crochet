@@ -14,16 +14,7 @@ Difficulty: 1/5
 
 If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
-## Terminology
-
-I use abreviates in the pattern here are them to help you read the pattern
-
-* Rnd : Round
-* sc : Single crochet
-* inc : Increase
-* dec : Decrease
-
-For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
+{% include /en/terminologies.md %}
 
 ## Mustache Crochet Pattern
 

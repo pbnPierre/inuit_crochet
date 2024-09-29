@@ -8,18 +8,7 @@ Time needed: 8 hours
 
 Difficulty: 2/5
 
-## Terminology
-
-I use abreviates in the pattern here are them to help you read the pattern
-
-* Rnd : Round
-* sc : Single crochet
-* BLO : Back loop only
-* FLO : Front loop only
-* inc : Increase
-* dec : Decrease
-
-For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
+{% include /en/terminologies.md %}
 
 ## Supplies
 

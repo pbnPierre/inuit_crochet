@@ -21,23 +21,14 @@ Temps nécessaire  : 5 heures
 
 Difficulté: 1/5
 
-## Terminologie
-
-J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
-
-* rg : Rang
-* ms : Mailles sérées
-* aug : Agmentation
-* dim : Diminution
-
-Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
+{% include /fr/terminologies.md %}
 
 ## Materiel
 
 * 1 crochet taille 4
 * 2 pelotes blanc cassée
 * 1 pelote gris foncée
-* 1 paire de ciseau
+* 1 paire de ciseaux
 * 1 aiguille à laine
 * Rembourrage
 

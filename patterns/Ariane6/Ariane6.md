@@ -21,16 +21,7 @@ Temps nécessaire  : 8 heures
 
 Difficulté: 1/5
 
-## Terminologie
-
-J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
-
-* rg : Rang
-* ms : Mailles sérées
-* aug : Agmentation
-* dim : Diminution
-
-Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
+{% include /fr/terminologies.md %}
 
 ## Materiel
 
@@ -38,7 +29,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 * 1 pelote blanche
 * 1 pelote jaune
 * 1 pelote gris foncé
-* 1 paire de ciseau
+* 1 paire de ciseaux
 * 1 aiguille à laine
 * Rembourrage
 

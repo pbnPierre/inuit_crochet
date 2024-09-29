@@ -20,19 +20,8 @@ Temps nécessaire  : 13 heures
 
 Difficulté: 3/5
 
-### Terminologie
 
-J'utilise des abréviation dans le patron que vous pouvez traduire en utilisant la terminologie suivante.
-
-* rg : Rang
-* ch : chaînette 
-* ms : Maille sérée
-* mc : Maille coulée
-* aug : Agmentation
-* dim : Diminution
-* br : Bride
-
-Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre parenthèses le nombre total de maille du rang
+{% include /fr/terminologies.md %}
 
 ### Materiel
 
@@ -45,7 +34,7 @@ Pour chaque rang vous trouverez le numéro du rang, ses instructions, puis entre
 * 1 pelote rouge
 * 1 pelote jaune
 * 1 pelote rose
-* 1 paire de ciseau
+* 1 paire de ciseaux
 * 1 aiguille à laine
 * 1 pistolet à colle
 * 1 nez de sécurité (Ou du fil noir si vous voulez le broder)

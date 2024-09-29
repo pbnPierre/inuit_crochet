@@ -14,17 +14,7 @@ If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/i
 
 This is the first version I made of the Ariane 5 crochet pattern, an improved one can be found [here](../../v2/en/Ariane5.md)
 
-## Terminology
-
-I use abreviates in the pattern here are them to help you read the pattern
-
-* Rnd : Round
-* sc : Single crochet
-* BLO : Back loop only
-* inc : Increase
-* dec : Decrease
-
-For each round you'll find the number of the round, the instructions, and the total number of stiches between parenthesis
+{% include /en/terminologies.md %}
 
 ## Supplies
 

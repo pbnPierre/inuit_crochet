@@ -10,20 +10,7 @@ Difficulty: 3/5
 
 If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
 
-## Terminology
-
-I use abreviates in the pattern here are them to help you read the pattern
-
-* Rnd : Round
-* ch : Chain 
-* sc : Single crochet
-* ss : Slip stich
-* BLO : Back loop only
-* inc : Increase
-* dec : Decrease
-* dc : Double crochet
-
-For each round you'll find the number of the round, the instructions and the total number of stiches between parenthesis
+{% include /en/terminologies.md %}
 
 ## Supplies
 
