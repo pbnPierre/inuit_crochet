@@ -8,8 +8,6 @@ La Phryge est la mascotte des JO de Paris 2024.
 
 Vous trouverez sur cette page le patron en crochet pour réaliser celle ci.
 
-{% include /fr/buymesomeyarn.md %}
-
 ## Important
 
 Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable travail de lesptitesbouill crochet que vous pouvez retrouver ici:
@@ -20,6 +18,8 @@ Je précise que ne suis pas l'auteur de ce patron j'ai réutilisé l'incroyable 
 Vous trouverez le tuto complet avec plus de détails que sur ma version sur le tutoriel pas à pas sur youtube [ici](https://www.youtube.com/watch?v=hElENmnQ77c){:target="_blank" rel="noopener"}
 
 La Phryge est une marque déposée du CIO et de Paris 2024.
+
+{% include /fr/buymesomeyarn.md %}
 
 # Patron Phryge
 
