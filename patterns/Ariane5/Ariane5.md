@@ -34,8 +34,6 @@ Ariane 5 is the emblematic rocket of the centre spatial guyanais.
 
 You'll find on this page crochet patterns I made for this
 
-If you like what I do you, you can [Buy me some yarn](https://buymeacoffee.com/inuitcrochet){:target="_blank" rel="noopener"}
-
 ## First version
 
 Ariane 5 Rocket pattern first version.
