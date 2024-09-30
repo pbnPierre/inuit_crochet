@@ -3,7 +3,7 @@
 I use abreviates in the pattern here are them to help you read the pattern
 
 * Rnd : Round
-* ch : Chain 
+* ch : Chain
 * sc : Single crochet
 * ss : Slip stich
 * BLO : Back loop only

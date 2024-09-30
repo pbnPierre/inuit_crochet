@@ -252,7 +252,7 @@ Dark blue, start with a 6 magic ring
 ![pattern](/inuit_crochet/media/patterns/caitsith/motif.png)
 
 * Rnd 17: (2 sc, 1 inc) x 18 (72)
-* Rnd 18 to 20 : 72 sc  (72) 
+* Rnd 18 to 20 : 72 sc  (72)
 * Rnd 21: (4 sc, 1 dec) x 12 (60)
 * Rnd 22: (3 sc, 1 dec) x 12 (48)
 * Rnd 23: (2 sc, 1 dec) x 12 (36)

@@ -86,7 +86,7 @@ Start by a 6 stich magic ring
 
 Stuff the tube with the padding.
 
-* Rnd 69 : (12 sc, 1 dec) x 3 (39) 
+* Rnd 69 : (12 sc, 1 dec) x 3 (39)
 * Rnd 70 : (11 sc, 1 dec) x 3 (36)
 * Rnd 71 : (10 sc, 1 dec) x 3 (33)
 * Rnd 72 : (9 sc, 1 dec) x 3 (30)
@@ -101,7 +101,7 @@ Close and stop the work.
 Do the Vulcain engine in grey
 
 * Rnd 1 : (6 sc, 1 dec) x 3 (21) In the front loops only of the round 75
-* Rnd 2 : (5 sc, 1 dec) x 3 (18) 
+* Rnd 2 : (5 sc, 1 dec) x 3 (18)
 * Rnd 3-4 : 18 sc (18)
 * Rnd 5 : (4 sc, 1 dec) x3 (15)
 * Rnd 6 : (1 sc, 1 dec) x5 (10)

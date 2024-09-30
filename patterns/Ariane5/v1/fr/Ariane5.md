@@ -88,7 +88,7 @@ Commencer par faire un cercle magique de 6 mailles
 
 Rembourrez bien le tube
 
-* Rg 69 : (12 ms, 1 dim) x 3 (39) 
+* Rg 69 : (12 ms, 1 dim) x 3 (39)
 * Rg 70 : (11 ms, 1 dim) x 3 (36)
 * Rg 71 : (10 ms, 1 dim) x 3 (33)
 * Rg 72 : (9 ms, 1 dim) x 3 (30)
@@ -102,7 +102,7 @@ Fermer et arrêtez le travail.
 Faire le moteur vulcain en gris
 
 * Rg 1 : (6 ms, 1 dim) x 3 (21) Uniquement dans les mailles avant du rang 75
-* Rg 2 : (5 ms, 1 dim) x 3 (18) 
+* Rg 2 : (5 ms, 1 dim) x 3 (18)
 * Rg 3-4 : 18 ms (18)
 * Rg 5 : (4 ms, 1 dim) x3 (15)
 * Rg 6 : (1 ms, 1 dim) x5 (10)
@@ -130,6 +130,7 @@ J'ai aussi brodé des motifs de drapeaux et de logo pour être plus fidèle à l
 ## Points d'améliorations
 
 Ceci est une première version du patron, une fois fini il y a quelques points que j'ai voulu améliorer et que je modifierai peut être dans une future versions 2 du patron.
+
 * Je trouve la fusée un peu grande du coup j'essaierai de la diminuer un peu pour une taille finale d'environ 25cm
 * J'aimerai y ajouter des bandes grises horizontales sur les boosters et le corps de la fusée pour matérialiser les différents étages de la fusée et se raprocher de la réalité
 

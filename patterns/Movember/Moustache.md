@@ -16,7 +16,6 @@ Difficulté: 1/5
 
 {% include /fr/buymesomeyarn.md %}
 
-
 {% include /fr/terminologies.md %}
 
 ## Materiel

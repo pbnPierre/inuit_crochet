@@ -23,9 +23,9 @@ Difficulty: 2/5
 
 For the wool I use the Salsa of the Cheval blanc brand and Prym crochets
 
-## Crochet Pattern Falcon Heavy 
+## Crochet Pattern Falcon Heavy
 
-### Rocket Body 
+### Rocket Body
 
 ![corps](/inuit_crochet/media/patterns/falconheavy/corps.jpg)
 
@@ -46,9 +46,11 @@ Start by 6 stich a magic ring.
 * Rnd 24: (2 sc, 1 dec) x 6 (18)
 
 Stuff the top of the rocket
+
 * Rnd 25-83: 18 sc (18)
 
 Alternate black and white yarn using following patterns
+
 * Rnd 84-85: (1 sc in black, 5 sc in white) x 3 (18)
 * Rnd 86-88: (2 sc in black, 4 sc in white) x 3 (18)
 * Rnd 89-90: (3 sc in black, 3 sc in white) x 3 (18)
@@ -59,6 +61,7 @@ Alternate black and white yarn using following patterns
 Stuff the tube with the padding.
 
 Continue in black
+
 * Rnd 85: (3 sc, 1 dec) x 6 (24) BLO
 * Rnd 86: (2 sc, 1 dec) x 6 (18)
 * Rnd 87: (1 sc, 1 dec) x 6 (12)
@@ -81,6 +84,7 @@ Start in white by a 6 stich magic ring
 Stuff the tube with the padding.
 
 Continue in black
+
 * Rnd 85: (3 sc, 1 dec) x 6 (24) BLO
 * Rnd 86: (2 sc, 1 dec) x 6 (18)
 * Rnd 87: (1 sc, 1 dec) x 6 (12)

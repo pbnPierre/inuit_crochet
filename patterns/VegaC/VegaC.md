@@ -8,7 +8,6 @@ La fusée VegaC est le micro lanceur du centre spatial guyanais.
 
 Vous trouverez sur cette page le patron en crochet de ma création autour de celle ci.
 
-
 {% include /fr/buymesomeyarn.md %}
 
 # Patron crochet VegaC
@@ -62,23 +61,29 @@ Commencer en blanc cassé par faire un cercle magique de 6 mailles
 Rembourrez bien la coiffe de la fusée
 
 Passez en gris foncé
+
 * Rg 25: 15 ms (15)
 
 Repassez en blanc cassé
+
 * Rg 26: 15 ms (15)
 * Rg 27: (4 ms, 1 aug) x 3 (18)
 * Rg 28: 18 ms (18)
 
 Passez en gris foncé
+
 * Rg 29: 18 ms (18)
 
 Repassez en blanc cassé
+
 * Rg 30-35: 18 ms (18)
 
 Passez en gris foncé
+
 * Rg 36: 18 ms (18)
 
 Repassez en blanc cassé
+
 * Rg 37: 18 ms (18)
 * Rg 38: (5 ms, 1 aug) x 3 (21)
 * Rg 39: 21 ms (21)
@@ -88,15 +93,19 @@ Repassez en blanc cassé
 Arrivé à mi hauteur rembourrez bien le corps de la fusée pour qu'il prenne une belle forme cylindrique.
 
 Passez en gris foncé
+
 * Rg 42: 24 ms (24)
 
 Repassez en blanc cassé
+
 * Rg 43-57: 24 ms (24)
 
 Passez en gris foncé
+
 * Rg 58: 24 ms (24)
 
 Repassez en blanc cassé
+
 * Rg 59: 24 ms (24)
 * Rg 60: (7 ms, 1 aug) x 3 (27)
 * Rg 61: 27 ms (27)
@@ -104,21 +113,27 @@ Repassez en blanc cassé
 * Rg 63: 30 ms (30)
 
 Passez en gris foncé
+
 * Rg 58: 30 ms (30)
 
 Repassez en blanc cassé
+
 * Rg 59-79: 30 ms (30)
 
 Passez en gris foncé
+
 * Rg 80: 30 ms (30)
 
 Repassez en blanc cassé
+
 * Rg 81-82: 30 ms (30)
 
 Passez en gris foncé
+
 * Rg 83: 30 ms (30)
 
 Rembourrez bien la fin du tube pour qu'il prenne une belle forme cylindrique.
+
 * Rg 84: 30 ms (30)
 * Rg 85: (3 ms, 1 dim) x 6 (24) dans le brin arrière uniquement sur tout le rang
 * Rg 86: (2 ms, 1 dim) x 6 (18)

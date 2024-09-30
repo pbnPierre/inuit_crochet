@@ -20,7 +20,6 @@ Temps nécessaire  : 13 heures
 
 Difficulté: 3/5
 
-
 {% include /fr/terminologies.md %}
 
 ### Materiel
@@ -131,7 +130,6 @@ Faire une chaînette de 16 mailles
 Faire 15 ms le long de la chaînette et des mailles serrées sur tous le bord de la cape
 
 Fermer et arrêtez le travail.
-
 
 ### Bottes (x2)
 
@@ -266,7 +264,7 @@ En bleu marine, commencez par faire un cercle magique de 6 mailles
 ![motif](/inuit_crochet/media/patterns/caitsith/motif.png)
 
 * Rg 17: (2 ms, 1 aug) x 18 (72)
-* Rg 18 à 20 : 72 ms (72) 
+* Rg 18 à 20 : 72 ms (72)
 * Rg 21: (4 ms, 1 dim) x 12 (60)
 * Rg 22: (3 ms, 1 dim) x 12 (48)
 * Rg 23: (2 ms, 1 dim) x 12 (36)

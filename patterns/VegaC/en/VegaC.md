@@ -25,7 +25,7 @@ For the wool I use the Salsa of the Cheval blanc brand and Prym crochets
 
 ## Pattern
 
-### Rocket Body 
+### Rocket Body
 
 ![corps](/inuit_crochet/media/patterns/vegac/corps.jpg)
 
@@ -52,23 +52,29 @@ Start by 6 stich a magic ring.
 Stuff the top of the rocket
 
 Use dark gray yarn
+
 * Rnd 25: 15 sc (15)
 
 Use white yarn
+
 * Rnd 26: 15 sc (15)
 * Rnd 27: (4 sc, 1 inc) x 3 (18)
 * Rnd 28: 18 sc (18)
 
 Use dark gray yarn
+
 * Rnd 29: 18 sc (18)
 
 Use white yarn
+
 * Rnd 30-35: 18 sc (18)
 
 Use dark gray yarn
+
 * Rnd 36: 18 sc (18)
 
 Use white yarn
+
 * Rnd 37: 18 sc (18)
 * Rnd 38: (5 sc, 1 inc) x 3 (21)
 * Rnd 39: 21 sc (21)
@@ -78,15 +84,19 @@ Use white yarn
 Now that you are in the middle Stuff the tube with the padding.
 
 Use dark gray yarn
+
 * Rnd 42: 24 sc (24)
 
 Use white yarn
+
 * Rnd 43-57: 24 sc (24)
 
 Use dark gray yarn
+
 * Rnd 58: 24 sc (24)
 
 Use white yarn
+
 * Rnd 59: 24 sc (24)
 * Rnd 60: (7 sc, 1 inc) x 3 (27)
 * Rnd 61: 27 sc (27)
@@ -94,21 +104,27 @@ Use white yarn
 * Rnd 63: 30 sc (30)
 
 Use dark gray yarn
+
 * Rnd 58: 30 sc (30)
 
 Use white yarn
+
 * Rnd 59-79: 30 sc (30)
 
 Use dark gray yarn
+
 * Rnd 80: 30 sc (30)
 
 Use white yarn
+
 * Rnd 81-82: 30 sc (30)
 
 Use dark gray yarn
+
 * Rnd 83: 30 sc (30)
 
 Stuff the tube with the padding.
+
 * Rnd 84: 30 sc (30)
 * Rnd 85: (3 sc, 1 dec) x 6 (24) BLO
 * Rnd 86: (2 sc, 1 dec) x 6 (18)

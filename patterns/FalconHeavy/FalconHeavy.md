@@ -35,7 +35,7 @@ Pour la laine j'utilise la Salsa de cheval blanc et un crochet de chez Prym
 
 ## Patron
 
-### Corps de la fusée 
+### Corps de la fusée
 
 ![corps](/inuit_crochet/media/patterns/falconheavy/corps.jpg)
 
@@ -57,9 +57,11 @@ Commencez par un cercle magique de 6 mailles.
 * Rg 24: (2 ms, 1 dim) x 6 (18)
 
 Rembourrez la coiffe de la fusée
+
 * Rg 25-83: 18 ms (18)
 
 Crochetez en alternant le noir et le blanc avec les deux fils
+
 * Rg 84-85: (1 ms in black, 5 ms in white) x 3 (18)
 * Rg 86-88: (2 ms in black, 4 ms in white) x 3 (18)
 * Rg 89-90: (3 ms in black, 3 ms in white) x 3 (18)
@@ -70,6 +72,7 @@ Crochetez en alternant le noir et le blanc avec les deux fils
 Rembourrez le tube
 
 Continuez en noir
+
 * Rg 85: (3 ms, 1 dim) x 6 (24) BLO
 * Rg 86: (2 ms, 1 dim) x 6 (18)
 * Rg 87: (1 ms, 1 dim) x 6 (12)
@@ -94,6 +97,7 @@ Commencez par un cercle magique de 6 mailles.
 Rembourrez le tube
 
 Continuez en noir
+
 * Rg 85: (3 ms, 1 dim) x 6 (24) dans le brin arrière uniquement sur tout le rang
 * Rg 86: (2 ms, 1 dim) x 6 (18)
 * Rg 87: (1 ms, 1 dim) x 6 (12)
