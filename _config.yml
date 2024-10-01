@@ -10,7 +10,7 @@ description: Vous trouverez sur ce blog des liens vers mes travaux, des conseils
 minima:
   skin: auto
   social_links:
-    - { platform: mastodon,  user_url: "https://pouet.chapril.org/@pierrobn" }
+    - { platform: mastodon,  user_url: "https://framapiab.org/@pierrobn" }
     - { platform: github, user_url: "https://github.com/pbnPierre" }
     - { platform: instagram, user_url: "https://www.instagram.com/inuit_crochet" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/pierre-bertrand-787b9288" }

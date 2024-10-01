@@ -5,7 +5,7 @@
   "allowCompoundWords": true,
   "languageSettings": [],
   "dictionaries": [],
-  "words": [],
+  "words": ["mastodon"],
   "flagWords": [],
   "ignoreWords": []
 }
