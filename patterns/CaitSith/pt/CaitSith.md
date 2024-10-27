@@ -294,4 +294,6 @@ Aí está! Aproveite seu maravilhoso Cait Sith!
 
 ![caitsith](/inuit_crochet/media/patterns/caitsith/caitsith.jpg)
 
+Translated with love by [Kitsunyume](https://www.instagram.com/kitsunyume/)
+
 {% include /en/licence.md %}
