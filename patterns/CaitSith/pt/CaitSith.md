@@ -82,13 +82,14 @@ Cole um dos pequenos imãs com a pistola de cola na parte mais estreita do megaf
 ![ears](/inuit_crochet/media/patterns/caitsith/oreilles.jpg)
 
 Com azul escuro, comece com um circulo magico de 5 pb.
-● Carr. 1: 5 pb (5)
-● Carr. 2: 5 aum (10)
-● Carr. 3: 10 pb (10)
-● Carr. 4: (1 pb, 1 aum) x 5 (15)
-● Carr. 5: 15 pb (15)
-● Carr. 6: (1 pb, 1 aum, 1 pb) x 5 (20)
-● Rnd 7: 20 pb (15)
+
+* Carr. 1: 5 pb (5)
+* Carr. 2: 5 aum (10)
+* Carr. 3: 10 pb (10)
+* Carr. 4: (1 pb, 1 aum) x 5 (15)
+* Carr. 5: 15 pb (15)
+* Carr. 6: (1 pb, 1 aum, 1 pb) x 5 (20)
+* Rnd 7: 20 pb (15)
 
 Arremate e corte o fio, deixando um longo pedaço de linha para costurar.
 
